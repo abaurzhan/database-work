@@ -1,0 +1,1001 @@
+id,brand,fdacode,zipcode,street,country,tzone
+1,Ranbaxy Laboratories Inc.,10631-113,,41731 Ruskin Drive,China,Asia/Chongqing
+2,"NextSource Biotechnology, LLC",58181-3041,6030-006,7827 Maryland Plaza,Portugal,Europe/Lisbon
+3,"Physicians Total Care, Inc.",54868-5780,4635-005,2 Londonderry Parkway,Portugal,Europe/Lisbon
+4,"PharmaDerm, A division of Nycomed US Inc.",0462-0395,44604 CEDEX,140 Village Green Drive,France,Europe/Paris
+5,"Duramed Pharmaceuticals, Inc.",51285-754,,6 Autumn Leaf Road,China,Asia/Harbin
+6,"Navarro Discount Pharmacies,LLC",59970-169,989-1505,59 Clarendon Junction,Japan,Asia/Tokyo
+7,QUALITY CHOICE (Chain Drug Marketing Association),63868-094,,0 Mallory Street,China,Asia/Shanghai
+8,Jubilant HollisterStier LLC,65044-3456,28815,46501 Bayside Crossing,United States,America/New_York
+9,Midlothian Laboratories,68308-505,,35448 2nd Terrace,South Korea,Asia/Seoul
+10,"Revive Bioscience, Inc.",76433-004,,45296 American Ash Circle,China,Asia/Chongqing
+11,Purdue Pharma LP,59011-442,48-120,6 Hanson Alley,Poland,Europe/Prague
+12,Boots Retail USA Inc,68472-066,,75 Dahle Circle,China,Asia/Chongqing
+13,"Carlsbad Technology, Inc.",61442-112,75139 CEDEX 03,4 Macpherson Park,France,Europe/Paris
+14,Carilion Materials Management,68151-4362,,4 Stone Corner Circle,China,Asia/Harbin
+15,"Liddell Laboratories, Inc.",50845-0092,6270-405,36046 Alpine Lane,Portugal,Europe/Lisbon
+16,"Antigen Laboratories, Inc.",49288-0483,,2 Old Gate Point,China,Asia/Shanghai
+17,"OMP, INC.",62032-509,,4 Corben Road,Bermuda,Atlantic/Bermuda
+18,Jubilant HollisterStier LLC,65044-1832,,513 Riverside Point,China,Asia/Harbin
+19,CVS Pharmacy,59779-524,,89015 Forest Trail,China,Asia/Shanghai
+20,Geri Care Pharmaceutical,57896-904,87090 CEDEX 9,0166 Lighthouse Bay Pass,France,Europe/Paris
+21,Rebel Distributors Corp,42254-257,,56 Amoth Alley,China,Asia/Chongqing
+22,Valeant Pharmaceuticals North America LLC,0187-0500,412068,8357 Dovetail Avenue,Colombia,America/Bogota
+23,Mylan Pharmaceuticals Inc.,0378-2922,,46697 Oriole Trail,South Korea,Asia/Seoul
+24,Rebel Distributors Corp,21695-985,,2437 Cascade Court,China,Asia/Urumqi
+25,"H and P Industries, Inc. dba Triad Group",50730-1091,91194 CEDEX,4852 Springs Avenue,France,Europe/Paris
+26,"Upsher-Smith Laboratories, Inc.",0832-0912,,47 Menomonie Pass,China,Asia/Shanghai
+27,Sanum Kehlbeck GmbH & Co. KG,60681-0301,426-0224,4101 Mcguire Trail,Japan,Asia/Tokyo
+28,Publix Super Markets Inc,56062-224,,31437 Lakewood Pass,China,Asia/Harbin
+29,PHYSICIANS FORMULA INC,31645-161,,5 Hooker Circle,China,Asia/Chongqing
+30,Space Brands Limited,61601-1114,24-204,4 Tony Crossing,Poland,Europe/Warsaw
+31,VVF Illinois Services,51815-223,7440,45585 Sundown Drive,Norway,Europe/Oslo
+32,"General Injectables & Vaccines, Inc",52584-483,DL10,82323 Boyd Way,United Kingdom,Europe/London
+33,"ABC Compounding Co., Inc.",62257-575,4765-497,81898 Burrows Way,Portugal,Europe/Lisbon
+34,"NCS HealthCare of KY, Inc dba Vangard Labs",0615-0170,18706,6 Porter Terrace,United States,America/New_York
+35,Mylan Pharmaceuticals Inc.,0378-0464,,0751 Sunfield Trail,China,Asia/Chongqing
+36,Wockhardt Limited,55648-987,,74 Glacier Hill Place,China,Asia/Harbin
+37,AmerisourceBergen (Good Neighbor Pharmacy),46122-181,83-243,4 Rowland Park,Poland,Europe/Warsaw
+38,Apotheca Company,57520-0719,N2E,8728 Sunfield Circle,Canada,America/Montreal
+39,A-S Medication Solutions LLC,54569-5840,,6 Florence Parkway,China,Asia/Shanghai
+40,"Carver Korea Co.,Ltd",58930-053,,76 Mallory Street,China,Asia/Shanghai
+41,HyVee Inc,42507-751,4525-406,0 Kings Way,Portugal,Europe/Lisbon
+42,Coty US LLC,66184-143,0025,87159 Cardinal Junction,Norway,Europe/Oslo
+43,AvPAK,50268-152,87592,1 Briar Crest Hill,United States,America/Denver
+44,"McNeil Consumer Healthcare Div McNeil-PPC, Inc",50580-403,13540,43 North Drive,France,Europe/Paris
+45,"The Man Can, LLC",59045-1001,84304 CEDEX,867 Pond Way,France,Europe/Paris
+46,Liddell Laboratories,50845-0046,370 06,205 Ryan Center,Czech Republic,Europe/Prague
+47,SUPERVALU INC.,41163-503,,96 Harper Hill,South Korea,Asia/Seoul
+48,Apotheca Company,57520-0134,33404,8 Thompson Plaza,Spain,Europe/Madrid
+49,"Best Sanitizers, Inc",59900-117,,580 Northfield Place,China,Asia/Shanghai
+50,"Tarte, Inc",51060-040,,098 Victoria Hill,China,Asia/Shanghai
+51,Hyland's,54973-2900,,9890 Commercial Center,China,Asia/Shanghai
+52,"Novocol Pharmaceutical of Canada, Inc.",51004-2010,,950 International Junction,China,Asia/Chongqing
+53,Teva Pharmaceuticals USA Inc,0093-5539,,5 Mosinee Parkway,China,Asia/Shanghai
+54,CLINIQUE LABORATORIES INC.,49527-015,1058,25397 Mendota Lane,Denmark,Europe/Copenhagen
+55,Jafra Cosmetics International Inc,68828-188,DL8,126 Carey Road,United Kingdom,Europe/London
+56,AB7 Industries,52815-124,,1 Crowley Drive,China,Asia/Kolkata
+57,"Physicians Total Care, Inc.",54868-5000,,84 Knutson Alley,China,Asia/Shanghai
+58,First Aid Direct,53117-612,08-443,68856 Jenifer Lane,Poland,Europe/Warsaw
+59,Cardinal Health,55154-2428,53726,1 Amoth Point,United States,America/Chicago
+60,"Nelco Laboratories, Inc.",36987-3291,671 82,9361 Donald Point,Czech Republic,Europe/Prague
+61,Natural Health Supply,64117-155,5155-104,18151 Rockefeller Circle,Portugal,Europe/Lisbon
+62,"AvKARE, Inc.",42291-836,,023 Buena Vista Crossing,China,Asia/Harbin
+63,Bryant Ranch Prepack,63629-1418,75287,1 Cherokee Avenue,United States,America/Chicago
+64,"Aphena Pharma Solutions - Tennessee, Inc.",43353-494,,33812 Autumn Leaf Court,Ukraine,Europe/Zaporozhye
+65,Eli Lilly and Company,0002-5121,,66 Emmet Junction,China,Asia/Chongqing
+66,CVS Pharmacy Inc,59779-262,75547 CEDEX 11,290 Ryan Street,France,Europe/Paris
+67,Natural Health Supply,64117-205,13205,75 Independence Pass,United States,America/New_York
+68,Walgreen Company,0363-0923,205048,62 Lakeland Street,Colombia,America/Bogota
+69,Jubilant HollisterStier LLC,65044-2620,,33 Fordem Pass,China,Asia/Shanghai
+70,"Graceway Pharmaceuticals, LLC",29336-200,,52 Kenwood Crossing,China,Asia/Chongqing
+71,Major Pharmaceuticals,0904-7695,29551 CEDEX 9,42 Birchwood Parkway,France,Europe/Paris
+72,APOLLO HEALTH AND BEAUTY CARE,63148-173,500017,64603 Dwight Hill,Colombia,America/Bogota
+73,Topco,36800-209,,85 Kenwood Drive,China,Asia/Shanghai
+74,"Janssen Pharmaceuticals, Inc.",50458-341,20195,6539 Jay Junction,United States,America/New_York
+75,Teva Pharmaceuticals USA Inc,0093-1087,,67 Eagle Crest Alley,China,Asia/Chongqing
+76,"Wal-Mart Stores, Inc.",49035-731,,11 Corben Pass,China,Asia/Chongqing
+77,SHISEIDO AMERICAS CORPORATION,58411-192,,30 Talisman Crossing,Ukraine,Europe/Zaporozhye
+78,"Cephalon, Inc.",63459-701,23-210,34101 Golden Leaf Junction,Poland,Europe/Warsaw
+79,Fresenius Medical Care North America,49230-209,69265 CEDEX 09,10863 Banding Place,France,Europe/Paris
+80,General Air Service & Supply Co,21220-122,9847,9014 Delladonna Plaza,New Zealand,Pacific/Auckland
+81,Cardinal Health,55154-1954,21480,9 Anniversary Hill,Croatia,Europe/Zagreb
+82,"H and P Industries, Inc. dba Triad Group",50730-1450,,71 Bellgrove Pass,China,Asia/Shanghai
+83,Topco Associates LLC,36800-660,,5 Monument Street,China,Asia/Harbin
+84,Reckitt Benckiser LLC,63824-528,2530-631,32204 Messerschmidt Parkway,Portugal,Europe/Lisbon
+85,"Akorn, Inc.",17478-063,10020,01451 Monterey Court,Croatia,Europe/Zagreb
+86,"Akorn, Inc.",17478-215,,07394 Heffernan Drive,China,Asia/Chongqing
+87,"Physicians Total Care, Inc.",54868-0922,,0 Reindahl Plaza,China,Asia/Shanghai
+88,REMEDYREPACK INC.,49349-263,,5 3rd Alley,China,Asia/Harbin
+89,"PD-Rx Pharmaceuticals, Inc.",43063-507,899-3221,60713 Oneill Drive,Japan,Asia/Tokyo
+90,American Health Packaging,68084-577,05-074,491 Londonderry Junction,Poland,Europe/Warsaw
+91,Shasun Pharmaceuticals Limited,57910-404,34-221,4 Sunfield Pass,Poland,Europe/Warsaw
+92,"Allergy Laboratories, Inc.",54575-454,,46 Milwaukee Hill,China,Asia/Chongqing
+93,"Ascend Laboratories, LLC",67877-147,30001,99 Fieldstone Terrace,Lithuania,Europe/Vilnius
+94,Apotheca Company,57520-0272,752-0923,1 Grasskamp Place,Japan,Asia/Tokyo
+95,"Aphena Pharma Solutions - Tennessee, LLC",67544-302,4800-005,5 Merrick Plaza,Portugal,Europe/Lisbon
+96,JAFRA COSMETICS INTERNATIONAL,68828-047,42-283,52 Menomonie Pass,Poland,Europe/Warsaw
+97,Unifirst First Aid Corporation,47682-099,R95,3 Lyons Point,Ireland,Europe/Dublin
+98,"PD-Rx Pharmaceuticals, Inc.",55289-934,259-0318,84201 Toban Plaza,Japan,Asia/Tokyo
+99,Forces of Nature,51393-7111,,90 Karstens Drive,China,Asia/Shanghai
+100,"Exelan Pharmaceuticals, Inc.",76282-274,761517,92018 Kensington Place,Colombia,America/Bogota
+101,Organon USA Inc.,0052-4330,,2 Kinsman Center,China,Asia/Chongqing
+102,REMEDYREPACK INC.,52125-358,,7844 Westport Junction,China,Asia/Shanghai
+103,Mylan Pharmaceuticals Inc.,0378-3628,,452 Lake View Park,China,Asia/Shanghai
+104,REMEDYREPACK INC.,24236-776,,74120 Aberg Lane,China,Asia/Chongqing
+105,"Genuine First Aid, LLC",52124-2901,73-121,9110 Ramsey Pass,Poland,Europe/Warsaw
+106,AMWAY CORP.,50390-705,6270-405,6657 Fair Oaks Place,Portugal,Europe/Lisbon
+107,"Blenheim Pharmacal, Inc.",10544-377,3105-222,4089 Shelley Place,Portugal,Europe/Lisbon
+108,Apotheca Company,57520-0210,,10 Amoth Parkway,China,Asia/Shanghai
+109,"ALK-Abello, Inc.",0268-0654,,55 Randy Junction,China,Asia/Shanghai
+110,"E.R. Squibb & Sons, L.L.C.",0003-0855,2246,920 Utah Street,New Zealand,Pacific/Auckland
+111,LUPIN PHARMA,27437-109,869-1203,2918 Comanche Avenue,Japan,Asia/Tokyo
+112,Perrigo New York Inc,45802-133,,42464 Bayside Junction,China,Asia/Chongqing
+113,Rebel Distributors Corp,42254-131,,485 Dennis Hill,China,Asia/Chongqing
+114,American Health Packaging,68084-077,,92 Mayfield Trail,China,Asia/Urumqi
+115,"Custom Solutions, Inc.",76405-010,95445 CEDEX,4 Elka Junction,France,Europe/Paris
+116,Procter & Gamble Manufacturing Co.,37000-088,,8928 Monterey Place,China,Asia/Shanghai
+117,"Rising Pharmaceuticals, Inc",64980-506,37942 CEDEX 9,20 Dayton Plaza,France,Europe/Paris
+118,Superior Chemical Corporation,53125-773,392 01,491 Briar Crest Way,Czech Republic,Europe/Prague
+119,"ALK-Abello, Inc.",0268-1151,,90008 Sullivan Trail,China,Asia/Shanghai
+120,Sagent Pharmaceuticals,25021-140,,862 Fordem Trail,China,Asia/Chongqing
+121,State of Florida DOH Central Pharmacy,53808-0874,,5544 Jenna Circle,China,Asia/Chongqing
+122,State of Florida DOH Central Pharmacy,53808-0398,8304,82 Tennyson Parkway,Netherlands,Europe/Amsterdam
+123,"Dolgencorp, LLC",55910-479,273 06,4248 Calypso Drive,Czech Republic,Europe/Prague
+124,Vi-Jon,0869-0602,85708 CEDEX,0550 Shopko Avenue,France,Europe/Paris
+125,"ProPhase Labs, Inc.",61941-0091,,3344 Crownhardt Crossing,China,Asia/Shanghai
+126,"Nelco Laboratories, Inc.",36987-2045,L4P,7 Starling Trail,Canada,America/Toronto
+127,"Dharma Research, inc.",53045-235,,3161 Parkside Point,China,Asia/Shanghai
+128,"Energique, Inc.",44911-0006,GDJ,72 Clemons Drive,Malta,Europe/Malta
+129,Procter & Gamble Manufacturing Company,37000-141,963-8846,959 Clarendon Way,Japan,Asia/Tokyo
+130,Conopco Inc. d/b/a Unilever,64942-0810,87090 CEDEX 9,4321 Grim Avenue,France,Europe/Paris
+131,"NCS HealthCare of KY, Inc dba Vangard Labs",0615-7560,61-731,5762 Center Lane,Poland,Europe/Warsaw
+132,"BioActive Nutritional, Inc.",43857-0046,,4 Roxbury Park,China,Asia/Shanghai
+133,"The Hain Celestial Group, Inc.",61995-1107,36-040,51030 Red Cloud Street,Poland,Europe/Warsaw
+134,Hannaford Brothers Company,41268-271,32-864,51759 Orin Way,Poland,Europe/Warsaw
+135,REMEDYREPACK INC.,52125-648,74704 CEDEX,79475 Melvin Drive,France,Europe/Paris
+136,Aidarex Pharmaceuticals LLC,33261-861,9625-325,1112 Golf View Pass,Portugal,Africa/Accra
+137,Oral BioTech,61578-305,,8304 Sloan Drive,Israel,Asia/Jerusalem
+138,Bayer HealthCare Pharmaceuticals Inc.,50419-253,3297,60 Browning Way,New Zealand,Pacific/Auckland
+139,"Eon Labs, Inc.",0185-1047,4808,37 Meadow Vale Junction,Norway,Europe/Oslo
+140,Sanum-Kehlbeck GmbH & Co. KG,60681-2402,62-590,5 Dakota Street,Poland,Europe/Warsaw
+141,"Nelco Laboratories, Inc.",36987-1099,,1611 Dwight Court,China,Asia/Chongqing
+142,MEIJER,41250-167,463 42,23454 Kenwood Trail,Czech Republic,Europe/Prague
+143,"Paddock Laboratories, LLC",0574-0120,664 56,8 Eliot Pass,Czech Republic,Europe/Prague
+144,Rebel Distributors Corp,21695-677,2710-106,61131 South Way,Portugal,Europe/Lisbon
+145,Citron Pharma LLC,57237-017,,4 Delaware Street,China,Asia/Chongqing
+146,McKesson,62011-0139,29327 CEDEX,21 Forest Place,France,Europe/Paris
+147,STAT RX USA LLC,16590-981,,6 Golf Course Way,China,Asia/Shanghai
+148,REMEDYREPACK INC.,52125-865,,04673 Northridge Hill,China,Asia/Chongqing
+149,Parfums Christian Dior,61957-0022,32-043,7075 Bartelt Terrace,Poland,Europe/Warsaw
+150,"Hi-Tech Pharmacal Co., Inc.",50383-823,,91 Banding Hill,China,Asia/Chongqing
+151,"Elizabeth Arden, Inc",67938-1172,,03 Crest Line Alley,China,Asia/Shanghai
+152,CARDINAL HEALTH,49781-096,,00510 Stang Alley,China,Asia/Shanghai
+153,Target Corporation,11673-963,,40094 Stephen Place,China,Asia/Shanghai
+154,Uriel Pharmacy Inc.,48951-6013,L2G,3109 Sunnyside Drive,Canada,America/Winnipeg
+155,Kosan Kozmetik Sanayi ve Ticaret A.S.,61722-181,338 45,2 Carey Park,Czech Republic,Europe/Prague
+156,RedPharm Drug Inc.,67296-0574,30760,75 Miller Junction,Malaysia,Asia/Kuala_Lumpur
+157,"Nelco Laboratories, Inc.",36987-2716,79004 CEDEX,0215 Green Ridge Court,France,Europe/Paris
+158,Richmond Division of Wyeth,0031-8698,,96890 Northwestern Road,China,Asia/Chongqing
+159,McNeil Consumer Pharmaceuticals Co.,16837-854,,51238 Tomscot Place,China,Asia/Chongqing
+160,Pfizer Laboratories Div Pfizer Inc,0069-3130,,0 Hovde Junction,China,Asia/Chongqing
+161,"Physicians Total Care, Inc.",54868-3086,,5681 Mccormick Plaza,China,Asia/Harbin
+162,TOPCO ASSOCIATES LLC,36800-240,13253 CEDEX 06,26 Warner Center,France,Europe/Paris
+163,Wal-Mart Stores Inc,49035-104,,80 Anderson Parkway,China,Asia/Chongqing
+164,"Amphastar Pharmaceuticals, Inc.",0548-5636,,39569 Schurz Hill,China,Asia/Chongqing
+165,Pfizer Consumer Healthcare,0573-0188,32244,9 Shoshone Crossing,United States,America/New_York
+166,"NCS HealthCare of KY, Inc dba Vangard Labs",0615-7705,,73 Kings Point,Ukraine,Europe/Zaporozhye
+167,Cardinal Health,37205-326,,3014 Maryland Road,China,Asia/Chongqing
+168,"Alva-Amco Pharmacal Companies, Inc.",52389-168,8045,37 Mariners Cove Court,Australia,Australia/Melbourne
+169,Amerisource Bergen,24385-213,22-550,4865 Lyons Alley,Poland,Europe/Warsaw
+170,Ventura Corporation LTD,13537-467,,3542 Mendota Hill,China,Asia/Shanghai
+171,Suzhou Health and Beyond Hygienic Products Inc.,51073-801,278 01,767 Pine View Parkway,Czech Republic,Europe/Prague
+172,Contract Pharmacy Services-PA,67046-228,1509,59701 Marcy Pass,Netherlands,Europe/Amsterdam
+173,Cardinal Health,55154-0368,,95368 Dakota Avenue,China,Asia/Shanghai
+174,Kroger Inc,30142-264,31407,60 Kingsford Crossing,Malaysia,Asia/Kuala_Lumpur
+175,Energizer Personal Care LLC,63354-315,799-2441,8493 Dayton Trail,Japan,Asia/Tokyo
+176,Supervalu Inc,41163-872,,05730 Sycamore Terrace,China,Asia/Shanghai
+177,"Akorn, Inc.",17478-238,35213,08654 Dwight Center,Spain,Atlantic/Canary
+178,AbbVie Inc.,0074-3007,,78213 6th Center,China,Asia/Harbin
+179,The Procter & Gamble Manufacturing Company,37000-696,,28525 Gale Way,China,Asia/Harbin
+180,"UCB, Inc.",0091-2491,06-456,2 Farwell Lane,Poland,Europe/Warsaw
+181,"PD-Rx Pharmaceuticals, Inc.",55289-779,93702,24 Londonderry Trail,Malaysia,Asia/Kuching
+182,Bedford Laboratories,55390-226,,7 Starling Lane,China,Asia/Shanghai
+183,Zydus Pharmaceuticals (USA) Inc.,68382-131,J7X,26404 8th Alley,Canada,America/Montreal
+184,Pfizer Laboratories Div Pfizer Inc,60793-801,,5 Orin Trail,China,Asia/Shanghai
+185,"PD-Rx Pharmaceuticals, Inc.",55289-617,,9 Continental Park,China,Asia/Kashgar
+186,REMEDYREPACK INC.,24236-558,68164,1919 1st Road,United States,America/Chicago
+187,Washington Homeopathic Products,68428-739,,7 New Castle Plaza,China,Asia/Chongqing
+188,"Apple Products, Inc.",67147-855,,00 Melvin Place,China,Asia/Shanghai
+189,Merck Sharp & Dohme Corp.,0006-0080,,6 Bowman Parkway,China,Asia/Harbin
+190,Carilion Materials Management,68151-4717,42-310,649 Dovetail Pass,Poland,Europe/Warsaw
+191,State of Florida DOH Central Pharmacy,53808-0819,BS14,85999 Sutherland Circle,United Kingdom,Europe/London
+192,"Antigen Laboratories, Inc.",49288-0708,2950-127,87466 Sherman Terrace,Portugal,Europe/Lisbon
+193,Cardinal Health,55154-5440,84-100,79 Dixon Alley,Poland,Europe/Warsaw
+194,International Pharmaceuticals Inc,58929-100,697-1201,6295 Fremont Court,Japan,Asia/Tokyo
+195,"Native Remedies, LLC",68703-102,18-230,099 Karstens Court,Poland,Europe/Warsaw
+196,AMERICAN SALES COMPANY,41520-474,,1407 Fisk Way,China,Asia/Shanghai
+197,"InLight Creation, LLC",53405-0003,08030,414 Truax Pass,Spain,Europe/Madrid
+198,Mallinckrodt Inc.,0019-9883,,39 Everett Lane,China,Asia/Chongqing
+199,"Raw Health International, LLC",55413-2500,E6J,82 Dixon Junction,Canada,America/Toronto
+200,"GRIFOLS USA, LLC",61953-0004,47304 CEDEX,4 Summerview Center,France,Europe/Paris
+201,McKesson Contract Packaging,76237-100,91117,778 Harper Junction,United States,America/Los_Angeles
+202,7-Eleven,10202-384,2140-215,853 Maryland Hill,Portugal,Europe/Lisbon
+203,Lake Erie Medical DBA Quality Care Products LLC,35356-007,25057 CEDEX,03962 Green Ridge Way,France,Europe/Paris
+204,"Liddell Laboratories, Inc.",50845-0110,232008,77597 Sachtjen Hill,Colombia,America/Bogota
+205,"Geiss, Destin & Dunn, Inc.",50804-667,27001,872 Dakota Alley,Lithuania,Europe/Vilnius
+206,Energetix Corp,64578-0082,J7J,072 Melody Drive,Canada,America/Montreal
+207,Major Pharmaceuticals,0904-1007,,2535 Meadow Ridge Alley,China,Asia/Shanghai
+208,"Prestige Brands Holdings, Inc.",52183-279,,1079 Knutson Pass,China,Asia/Shanghai
+209,State of Florida DOH Central Pharmacy,53808-0806,,489 Rutledge Alley,China,Asia/Shanghai
+210,IVAX Pharmaceuticals Inc.,0172-3649,4905-266,6 Reindahl Park,Portugal,Europe/Lisbon
+211,"Nelco Laboratories, Inc.",36987-2706,03005,9 Johnson Trail,Spain,Europe/Madrid
+212,Walgreen Company,0363-0480,4805-223,64103 Ridgeview Alley,Portugal,Europe/Lisbon
+213,"Crumpton Welding Supply & Equipment, Inc",52568-007,25200,54 Swallow Junction,Malaysia,Asia/Kuala_Lumpur
+214,Major Pharmaceuticals,0904-6085,,99 Sunfield Crossing,China,Asia/Urumqi
+215,H E B,37808-480,1101,503 Cordelia Trail,Norway,Europe/Oslo
+216,"Roxane Laboratories, Inc",0054-3532,,24587 Oneill Point,China,Asia/Shanghai
+217,Valeant Pharmaceuticals North America LLC,0187-1619,41-840,93 6th Alley,Poland,Europe/Warsaw
+218,"BB17, LLC",53603-1003,,8 Tennessee Plaza,China,Asia/Chongqing
+219,"Kareway Product, Inc.",67510-1562,,95459 Dixon Parkway,China,Asia/Chongqing
+220,Cardinal Health,55154-0253,91324 CEDEX,52001 Village Alley,France,Europe/Paris
+221,"General Injectables & Vaccines, Inc",52584-443,34504 CEDEX,47676 Springview Drive,France,Europe/Paris
+222,"Oriental Home Sense Co., Ltd.",61238-1125,20551,4 Continental Parkway,Malaysia,Asia/Kuala_Lumpur
+223,"CodaDose, Inc.",43378-100,73379 CEDEX,3 Sommers Place,France,Europe/Paris
+224,"Arbor Pharmaceuticals, Inc.",24338-106,2334,781 Donald Avenue,Netherlands,Europe/Amsterdam
+225,"Golden State Medical Supply, Inc.",60429-618,80995,685 Lakewood Point,Germany,Europe/Berlin
+226,REMEDYREPACK INC.,49349-938,68134,19 Sherman Plaza,United States,America/Chicago
+227,GlaxoSmithKline LLC,0173-0838,969-6244,8184 Browning Court,Japan,Asia/Tokyo
+228,REMEDYREPACK INC.,49349-252,,5 West Lane,China,Asia/Chongqing
+229,Cardinal Health,55154-1025,276 01,066 Karstens Terrace,Czech Republic,Europe/Prague
+230,Mylan Institutional Inc.,51079-196,,518 Cambridge Plaza,Israel,Asia/Jerusalem
+231,Pfizer Consumer Healthcare,0573-0225,37-754,190 Veith Plaza,Poland,Europe/Warsaw
+232,Perrigo Company,0574-4005,,490 Butternut Parkway,China,Asia/Harbin
+233,Mylan Pharmaceuticals Inc.,0378-6044,,3640 Menomonie Place,China,Asia/Harbin
+234,Contract Pharmacal Corp,10267-1122,75778 CEDEX 16,7081 Service Avenue,France,Europe/Paris
+235,Colgate-Palmolive Canada,51442-546,,50 Stoughton Lane,China,Asia/Shanghai
+236,CVS Pharmacy,59779-491,,25331 Pawling Road,China,Asia/Shanghai
+237,AR Medicom Inc,64778-1443,687 65,327 Westridge Center,Czech Republic,Europe/Prague
+238,PHARMADERM. A division of Nycomed US Inc.,0462-0277,21-205,971 Heath Pass,Poland,Europe/Warsaw
+239,Valeant Pharmaceuticals North America LLC,0187-5268,735517,639 Nelson Court,Colombia,America/Bogota
+240,Apotex Corp.,60505-0014,,38 Roth Point,China,Asia/Chongqing
+241,Cardinal Health,55154-9439,2490-105,6 Delaware Alley,Portugal,Europe/Lisbon
+242,American Health Packaging,68084-598,,753 Brickson Park Park,China,Asia/Chongqing
+243,"Nature's Innovation, Inc.",10893-663,,52035 Surrey Park,China,Asia/Shanghai
+244,Sandoz Inc,0781-1830,25508,9 Hanover Way,Malaysia,Asia/Kuala_Lumpur
+245,"Physicians Total Care, Inc.",54868-5944,4580-604,53380 Toban Trail,Portugal,Europe/Lisbon
+246,Macoven Pharmaceuticals,44183-400,,70 Shopko Road,China,Asia/Chongqing
+247,"Nelco Laboratories, Inc.",36987-2287,A1Y,992 Commercial Center,Canada,America/St_Johns
+248,"NATURE REPUBLIC CO., LTD.",51346-065,10450,17 Lerdahl Park,Croatia,Europe/Zagreb
+249,Northstar RxLLC,16714-111,67137 CEDEX,2 Marquette Alley,France,Europe/Paris
+250,Wise Consumer Products,42346-600,70826,14 Annamark Drive,United States,America/Chicago
+251,"ALK-Abello, Inc.",0268-0943,67098 CEDEX 2,42 Schiller Pass,France,Europe/Paris
+252,"Paddock Laboratoratories, LLC",0574-0016,,0695 Comanche Junction,China,Asia/Shanghai
+253,AvPAK,50268-292,39-124,31895 Calypso Parkway,Poland,Europe/Warsaw
+254,Kimberly-Clark Corporation,55118-425,,3921 Oak Valley Court,Ukraine,Europe/Uzhgorod
+255,REMEDYREPACK INC.,49349-547,,6 Oriole Terrace,China,Asia/Shanghai
+256,School Health Corporation,76123-120,478067,30742 Sommers Junction,Colombia,America/Bogota
+257,Wal-Mart Stores Inc,49035-901,13503 CEDEX,4 Lake View Street,France,Europe/Paris
+258,REMEDYREPACK INC.,52125-578,27-530,059 Mariners Cove Point,Poland,Europe/Warsaw
+259,Mckesson,49348-083,,2427 Cardinal Junction,China,Asia/Harbin
+260,"Aphena Pharma Solutions - Tennessee, LLC",67544-136,J7Z,0222 Hagan Drive,Canada,America/Montreal
+261,Contract Pharmacy Services-PA,67046-919,,54 Burrows Pass,China,Asia/Shanghai
+262,E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc.,0168-0312,894-2414,1038 Eggendart Point,Japan,Asia/Tokyo
+263,McKesson,49348-044,,12371 Brentwood Court,China,Asia/Shanghai
+264,"Energique, Inc.",44911-0019,K2J,780 Marcy Avenue,Canada,America/Regina
+265,Mylan Pharmaceuticals Inc.,0378-9123,,44 Barnett Parkway,Georgia,Asia/Tbilisi
+266,Genuine First Aid LLC,52124-0107,2565-035,26727 Melrose Crossing,Portugal,Europe/Lisbon
+267,Sandoz Inc,0781-1655,,18620 High Crossing Way,China,Asia/Harbin
+268,Aidarex Pharmaceuticals LLC,33261-517,891-0704,45 Dorton Crossing,Japan,Asia/Tokyo
+269,"Onpoint, Inc",51143-124,,08 Sunnyside Road,China,Asia/Shanghai
+270,Torrent Pharmaceuticals Limited,13668-140,T9C,56619 Canary Junction,Canada,America/Edmonton
+271,Baxter Healthcare Corporation,0338-5002,4770-073,91670 Blue Bill Park Street,Portugal,Europe/Lisbon
+272,Rebel Distributors Corp,21695-238,,219 Melvin Junction,China,Asia/Shanghai
+273,Sanum Kehlbeck GmbH & Co. KG,60681-0115,704038,3587 Rieder Way,Colombia,America/Bogota
+274,R. L. Williams Company,61159-001,,27386 Grayhawk Crossing,China,Asia/Chongqing
+275,"Roberts Oxygen Company, Inc.",46123-040,,1765 Eggendart Drive,China,Asia/Chongqing
+276,Aaron Industries Inc.,49580-0329,,97890 Stang Lane,China,Asia/Harbin
+277,A-S Medication Solutions LLC,54569-5354,,8088 Village Green Park,Latvia,Europe/Riga
+278,"ProPhase Labs, Inc.",61941-0092,92324 CEDEX,8 3rd Center,France,Europe/Paris
+279,Tyco Healthcare Group LP,12823-401,37-224,602 Cordelia Park,Poland,Europe/Warsaw
+280,Pfizer Laboratories Div Pfizer Inc,0069-3070,,79 Fisk Terrace,China,Asia/Chongqing
+281,"Solbin Co., Ltd",42352-2001,,629 Anthes Alley,China,Asia/Chongqing
+282,Rebel Distributors Corp,21695-924,4520-104,98932 Hudson Way,Portugal,Europe/Lisbon
+283,ReadyMeds,64205-488,3800-525,43432 Mendota Parkway,Portugal,Europe/Lisbon
+284,Aurobindo Pharma Limited,65862-493,,7644 Pond Place,China,Asia/Shanghai
+285,KMART CORPORATION,49738-558,,843 Sycamore Alley,China,Asia/Harbin
+286,King Bio Inc.,57955-8315,66-101,40 Banding Way,Poland,Europe/Warsaw
+287,Bayer HealthCare Pharmaceuticals Inc.,50419-862,,4 Waxwing Court,China,Asia/Shanghai
+288,"ALK-Abello, Inc.",0268-0878,LE15,155 Green Lane,United Kingdom,Europe/London
+289,BluePoint Laboratories,68001-183,88-420,55 Burning Wood Lane,Poland,Europe/Warsaw
+290,"Prestium Pharma, Inc.",40076-949,,9181 Raven Way,China,Asia/Chongqing
+291,Mylan Pharmaceuticals Inc.,0378-0047,67039 CEDEX 2,2659 Merrick Terrace,France,Europe/Paris
+292,Unifirst First Aid Corporation,47682-010,7900-495,1 Cambridge Trail,Portugal,Europe/Lisbon
+293,Bryant Ranch Prepack,63629-3142,97035,629 Northwestern Lane,Lithuania,Europe/Vilnius
+294,Teva Pharmaceuticals USA Inc,0093-7442,V6Z,52567 Del Sol Center,Canada,America/Montreal
+295,H E B,37808-964,42355 CEDEX,759 Gateway Lane,France,Europe/Paris
+296,E-House Korea Holdings International,50387-200,,9110 Brentwood Junction,China,Asia/Shanghai
+297,Oral BioTech,61578-203,,751 Marquette Circle,China,Asia/Harbin
+298,"Dispensing Solutions, Inc.",55045-3248,,898 Ilene Center,Ukraine,Europe/Kiev
+299,Covis Pharmaceuticals Inc,24987-437,73-108,6 Arapahoe Drive,Poland,Europe/Warsaw
+300,"MedVantx, Inc.",66116-603,,23177 Amoth Alley,Ukraine,Europe/Simferopol
+301,Aidarex Pharmaceuticals LLC,33261-480,91024 CEDEX,04688 Kim Point,France,Europe/Paris
+302,Hyland's,54973-3162,62-560,48 Carpenter Terrace,Poland,Europe/Warsaw
+303,REMEDYREPACK INC.,49349-478,,5181 Vahlen Drive,Ukraine,Europe/Kiev
+304,Pharmacia and Upjohn Company,0013-2649,,09255 Fremont Circle,China,Asia/Chongqing
+305,"Northwind Pharmaceuticals, LLC",51655-158,,5 Darwin Drive,China,Asia/Chongqing
+306,Wal-Mart Stores Inc,49035-854,,62 Center Plaza,China,Asia/Shanghai
+307,American Health Packaging,68084-339,,8728 Mitchell Junction,China,Asia/Chongqing
+308,Teva Pharmaceuticals USA Inc,0093-5060,507 43,50174 Glendale Lane,Czech Republic,Europe/Prague
+309,"Nelco Laboratories, Inc.",36987-2348,,8857 Dapin Road,China,Asia/Chongqing
+310,Valeant Pharmaceuticals North America LLC,0187-3750,,2 Village Road,China,Asia/Shanghai
+311,Rebel Distributors Corp,21695-797,569 04,2 Sunnyside Drive,Czech Republic,Europe/Prague
+312,HyVee Inc,42507-955,,0868 Fuller Parkway,China,Asia/Chongqing
+313,VVF Kansas Services LLC,10889-111,990-2374,27 Bashford Court,Japan,Asia/Tokyo
+314,Mylan Institutional Inc.,51079-624,,004 Elgar Trail,China,Asia/Shanghai
+315,Washington Homeopathic Products,68428-039,6060-089,99 Sauthoff Trail,Portugal,Europe/Lisbon
+316,Family Dollar,55319-453,,013 Merrick Park,China,Asia/Chongqing
+317,"Novartis Consumer Health, Inc.",0067-2086,44-280,6287 Claremont Place,Poland,Europe/Warsaw
+318,"NCS HealthCare of KY, Inc dba Vangard Labs",0615-0531,80668,91 Jackson Junction,Malaysia,Asia/Kuala_Lumpur
+319,Conopco Inc. d/b/a Unilever,64942-1214,,3 2nd Place,China,Asia/Harbin
+320,Forces of Nature,51393-6557,40323,9 Everett Terrace,Croatia,Europe/Zagreb
+321,McKesson Packaging Services Business Unit of McKesson Corporation,63739-467,,50 Hermina Center,China,Asia/Urumqi
+322,Mylan Institutional LLC,67457-583,5360-035,6297 Trailsway Trail,Portugal,Europe/Lisbon
+323,"Physicians Total Care, Inc.",54868-5195,,1 Dixon Road,China,Asia/Urumqi
+324,Quality Home Products,64525-0555,,18132 Delladonna Alley,China,Asia/Chongqing
+325,Aurobindo Pharma Limited,65862-586,,000 Summer Ridge Lane,China,Asia/Shanghai
+326,Ecolab Inc.,47593-114,91169 CEDEX,67406 Linden Center,France,Europe/Paris
+327,"PD-Rx Pharmaceuticals, Inc.",55289-470,4312,6 Commercial Drive,Norway,Europe/Oslo
+328,Baxter Healthcare Corporation,0944-2655,83-262,14 Eggendart Place,Poland,Europe/Warsaw
+329,REMEDYREPACK INC.,49349-970,,67 Forest Plaza,China,Asia/Shanghai
+330,King Bio Inc.,57955-5319,,22459 Anthes Hill,China,Asia/Chongqing
+331,"Sato Pharmaceutical Co., Ltd.",49873-401,8650-409,44115 Stephen Drive,Portugal,Europe/Lisbon
+332,"Akrimax Pharmaceuticals, LLC",24090-491,,09397 Cherokee Hill,China,Asia/Chongqing
+333,H.J. Harkins Company Inc.,52959-875,,3262 Burning Wood Court,China,Asia/Chongqing
+334,Alaven Pharmaceutical LLC,68220-022,59100,8255 Jenna Lane,France,Europe/Paris
+335,SHISEIDO AMERICA INC.,52686-278,9600-052,3 Sutherland Hill,Portugal,Africa/Accra
+336,"Antigen Laboratories, Inc.",49288-0273,898-0031,68357 Stoughton Court,Japan,Asia/Tokyo
+337,Baxter Healthcare Corporation,0338-0603,D17,4 Chive Trail,Ireland,Europe/Dublin
+338,sanofi-aventis U.S. LLC,0024-5850,,61123 Prentice Plaza,Ukraine,Europe/Zaporozhye
+339,CLINIQUE LABORATORIES INC,49527-724,253237,7 Susan Avenue,Colombia,America/Bogota
+340,Contract Pharmacy Services-PA,67046-103,503-2429,774 Lerdahl Parkway,Japan,Asia/Tokyo
+341,"Amphastar Pharmaceuticals, Inc.",0548-5635,4990-565,4 Acker Terrace,Portugal,Europe/Lisbon
+342,Western Family Foods Inc,55312-917,270-0164,674 Sachs Terrace,Japan,Asia/Tokyo
+343,REMEDYREPACK INC.,49349-346,37-240,8081 Warrior Junction,Poland,Europe/Warsaw
+344,"Dermalogica, Inc.",68479-216,,66 Prairie Rose Trail,China,Asia/Chongqing
+345,Apotheca Company,57520-0620,,27 Del Mar Circle,China,Asia/Shanghai
+346,"Fresenius Kabi USA, LLC",63323-010,93916,75899 Cascade Road,Malaysia,Asia/Kuching
+347,Actavis Elizabeth LLC,0228-2753,21-404,72286 Darwin Road,Poland,Europe/Warsaw
+348,Sun Pharmaceutical Industries Limited,62756-796,,751 Harbort Drive,China,Asia/Harbin
+349,Amneal Pharmaceuticals,65162-752,3094,4751 Merchant Junction,Netherlands,Europe/Amsterdam
+350,Chain Drug Marketing Association,63868-133,83164 CEDEX,72186 Mockingbird Terrace,France,Europe/Paris
+351,Walgreen Company,0363-0022,,963 Bayside Way,China,Asia/Chongqing
+352,ESTEE LAUDER INC,11559-720,37416,32383 Lake View Avenue,United States,America/New_York
+353,Valu Merchandisers Company,63941-125,3600-584,58159 Milwaukee Avenue,Portugal,Europe/Lisbon
+354,Jeun Cell Ltd,54296-2001,,7311 Burrows Way,China,Asia/Chongqing
+355,"Nelco Laboratories, Inc.",36987-1311,66-450,48 Jackson Street,Poland,Europe/Warsaw
+356,Fera Pharmaceuticals,48102-008,,0 Weeping Birch Park,China,Asia/Urumqi
+357,Gordon Laboratories,10481-3015,929-0203,73 Carberry Trail,Japan,Asia/Tokyo
+358,"HEALTHPOINT, LTD",0064-1011,4415-092,3 Chive Trail,Portugal,Europe/Lisbon
+359,Proficient Rx LP,63187-169,281 21,8068 Colorado Park,Czech Republic,Europe/Prague
+360,McKesson,49348-682,91030,636 Loeprich Junction,Malaysia,Asia/Kuching
+361,Cardinal Health,55154-5106,18706,4 Golden Leaf Road,United States,America/New_York
+362,BioActive Nutritional,43857-0030,93909 CEDEX 9,68380 Cody Pass,France,Europe/Paris
+363,Super Care Inc,68470-1001,706018,3 Vernon Pass,Colombia,America/Bogota
+364,"Antigen Laboratories, Inc.",49288-0760,,98203 Straubel Center,China,Asia/Chongqing
+365,Sandoz Inc,0781-1883,83300,79 Autumn Leaf Road,France,Europe/Paris
+366,REMEDYREPACK INC.,52125-306,2409,476 Hudson Place,Netherlands,Europe/Amsterdam
+367,Topco Associates LLC,36800-897,91505,8 Derek Street,United States,America/Los_Angeles
+368,"Physicians Total Care, Inc.",54868-5767,,94838 Grover Drive,Israel,Asia/Jerusalem
+369,"UCB, Inc.",0091-3725,,29337 Clove Road,China,Asia/Chongqing
+370,"Allermed Laboratories, Inc.",49643-351,,6810 Orin Point,China,Asia/Chongqing
+371,Cadila Healthcare Limited,65841-029,772 00,1 Declaration Parkway,Czech Republic,Europe/Prague
+372,"Professional Disposables International, Inc.",10819-1080,H9X,3 Fair Oaks Avenue,Canada,America/Montreal
+373,Carilion Materials Management,68151-1977,06-513,06 Cascade Parkway,Poland,Europe/Warsaw
+374,Amerisource Bergen,46122-223,,139 High Crossing Avenue,China,Asia/Shanghai
+375,Walgreen Company,0363-0949,21-222,38 Lillian Way,Poland,Europe/Warsaw
+376,HART Health,50332-0118,,93 Weeping Birch Street,China,Asia/Chongqing
+377,"The Hain Celestial Group, Inc.",61995-2831,1320,89 Sundown Alley,Denmark,Europe/Copenhagen
+378,Cardinal Health,55154-2075,,1898 Michigan Junction,China,Asia/Chongqing
+379,Aidarex Pharmaceuticals LLC,33261-641,,9083 Bluejay Road,China,Asia/Shanghai
+380,Cardinal Health,55154-5678,3200-399,1 Spaight Way,Portugal,Europe/Lisbon
+381,"ALK-Abello, Inc.",0268-6519,347-0105,43485 Lukken Trail,Japan,Asia/Tokyo
+382,"Nelco Laboratories, Inc.",36987-1924,,847 Maple Alley,China,Asia/Chongqing
+383,"AAA Pharmaceutical, Inc.",57344-160,09124,3571 Walton Hill,Italy,Europe/Rome
+384,"Nelco Laboratories, Inc.",36987-2593,,6448 Mccormick Drive,China,Asia/Chongqing
+385,Apotex Corp,60505-3665,,909 Del Sol Alley,Estonia,Europe/Tallinn
+386,"GREAT LAKES WHOLESALE, MARKETING, & SALES, INC.",64092-150,,759 Dovetail Drive,China,Asia/Chongqing
+387,"True Botanica, LLC",53645-1320,,89044 Tony Court,China,Asia/Chongqing
+388,Apotex Corporation,60505-0760,58-240,42997 Alpine Plaza,Poland,Europe/Warsaw
+389,"ALK-Abello, Inc.",0268-6543,4505-224,1 Northwestern Trail,Portugal,Europe/Lisbon
+390,AB7 Industries,52815-124,40323,904 Lillian Pass,Croatia,Europe/Zagreb
+391,"Melaleuca, Inc.",54473-187,,4699 Bluejay Avenue,China,Asia/Shanghai
+392,Tonic Bath and Body Products Shenzhen Ltd.,43333-443,4810-804,59 Fairfield Parkway,Portugal,Europe/Lisbon
+393,Alternative Pharmacy,49304-0005,,2780 Manitowish Hill,China,Asia/Almaty
+394,State of Florida DOH Central Pharmacy,53808-0827,,1399 Cordelia Junction,China,Asia/Chongqing
+395,"Sato Pharmaceutical Co., Ltd.",49873-608,85715,3155 Towne Drive,United States,America/Phoenix
+396,"SJ Creations, Inc.",43269-824,B1V,0027 Alpine Park,Canada,America/Glace_Bay
+397,"Physicians Total Care, Inc.",54868-6127,87-201,35851 School Terrace,Poland,Europe/Warsaw
+398,CLINIQUE LABORATORIES INC.,49527-989,,1865 Welch Lane,China,Asia/Chongqing
+399,State of Florida DOH Central Pharmacy,53808-0242,,53419 Briar Crest Street,China,Asia/Shanghai
+400,"Greenbrier International, Inc.",33992-3010,,2 Myrtle Trail,China,Asia/Chongqing
+401,"BB17, LLC",53603-4004,,93257 Mcbride Park,China,Asia/Chongqing
+402,"C.D.M.A., Inc",63868-326,,3 Algoma Alley,China,Asia/Chongqing
+403,State of Florida DOH Central Pharmacy,53808-0239,,3 Summit Point,China,Asia/Almaty
+404,MAJOR Pharmaceuticals Inc.,0904-5894,3550-286,04 Weeping Birch Center,Portugal,Europe/Lisbon
+405,HOMEOLAB USA INC,60512-8014,,17924 Parkside Trail,China,Asia/Urumqi
+406,"Jets, Sets, & Elephants Beauty Corp.",50988-271,,30 Merchant Parkway,China,Asia/Chongqing
+407,"DOLGENCORP, LLC",55910-348,,827 Logan Center,China,Asia/Chongqing
+408,American Health Packaging,68084-756,,5972 Lerdahl Way,China,Asia/Chongqing
+409,China Ningbo Shangge Cosmetic Technology Corp.,58503-036,,5 Washington Place,China,Asia/Chongqing
+410,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,35356-727,9560-305,475 Ridgeview Pass,Portugal,Africa/Accra
+411,"Physicians Total Care, Inc.",54868-2522,,704 Pawling Pass,China,Asia/Shanghai
+412,Colgate-Palmolive Company,35000-626,J7A,24 Dakota Center,Canada,America/Regina
+413,Accord Healthcare Inc.,16729-184,19151,74 Bashford Trail,United States,America/New_York
+414,Aidarex Pharmaceuticals LLC,33261-012,9700-685,27 Westport Circle,Portugal,Africa/Accra
+415,"SJ Creations, Inc.",43269-800,,45 Graceland Trail,China,Asia/Shanghai
+416,"Laboratorios Jaloma, S.A. de C.V.",65055-301,5085-105,0 Cottonwood Lane,Portugal,Europe/Lisbon
+417,STAT RX USA LLC,16590-337,FRN,46 Nancy Court,Malta,Europe/Malta
+418,WALGREEN CO.,0363-0534,,5219 Barnett Pass,China,Asia/Shanghai
+419,"Western Family Foods, Inc.",55312-110,864-0166,72947 Upham Lane,Japan,Asia/Tokyo
+420,State of Florida DOH Central Pharmacy,53808-0614,,09 Cody Plaza,China,Asia/Chongqing
+421,"Dolgencorp, LLC",55910-516,,5 Muir Street,China,Asia/Shanghai
+422,"Dispensing Solutions, Inc.",68258-8973,,5331 Melody Place,China,Asia/Shanghai
+423,REMEDYREPACK INC.,49349-348,2525-713,725 Superior Place,Portugal,Europe/Lisbon
+424,"General Injectables & Vaccines, Inc",52584-451,,1244 Bluestem Alley,China,Asia/Chongqing
+425,Shanghai Weierya Daily Chemicals Factory,58194-006,,19563 Northwestern Place,China,Asia/Shanghai
+426,"Ningbo Pulisi Daily Chemical Products Co., Ltd.",40104-351,,59828 Lindbergh Lane,Ukraine,Europe/Uzhgorod
+427,"Preferred Pharmaceuticals, Inc",68788-9859,,67924 Mayer Alley,China,Asia/Shanghai
+428,Sagent Pharmaceuticals,25021-206,,4525 Rutledge Alley,China,Asia/Chongqing
+429,"Dermazone Solutions, LLC",58466-104,60609,034 Luster Drive,United States,America/Chicago
+430,WOCKHARDT LIMITED,55648-433,6015,815 South Center,Switzerland,Europe/Zurich
+431,ENCHANTE ACCESSORIES INC.,50563-115,,5505 Carey Hill,China,Asia/Chongqing
+432,"International Nutraceutical Company of America (INCA), LLC",42452-378,,923 Westend Drive,China,Asia/Chongqing
+433,"Avion Pharmaceuticals, LLC",75854-310,9700-602,4 Oxford Hill,Portugal,Africa/Accra
+434,Laboratoires Clarins S.A.,58668-0741,,0645 Parkside Way,China,Asia/Chongqing
+435,Baxter Healthcare Corporation,0338-6308,,84 Calypso Avenue,China,Asia/Harbin
+436,"Dolgencorp, LLC",55910-958,,79900 Pleasure Place,China,Asia/Chongqing
+437,Central Solutions Inc,62654-144,33436,65506 Menomonie Crossing,United States,America/New_York
+438,Apotheca Company,57520-0265,56274 CEDEX,9 Florence Way,France,Europe/Paris
+439,CHANEL PARFUMS BEAUTE,68745-2033,154848,299 Red Cloud Park,Colombia,America/Bogota
+440,Major Pharmaceuticals,0904-6367,05-090,1986 Barby Pass,Poland,Europe/Warsaw
+441,"Liberty Pharmaceuticals, Inc.",0440-7605,419 01,3249 Sutherland Point,Czech Republic,Europe/Prague
+442,L. Perrigo Company,0113-0541,,4 Hagan Point,China,Asia/Shanghai
+443,Bryant Ranch Prepack,63629-4298,,3 Bowman Drive,China,Asia/Shanghai
+444,Personal Care Products,29500-8050,,872 Ludington Pass,China,Asia/Chongqing
+445,Pharbest Pharmaceuticals Inc.,16103-377,,0336 Hoepker Drive,Ukraine,Europe/Uzhgorod
+446,"Deseret Biologicals, Inc.",43742-0491,42-165,352 Vernon Alley,Poland,Europe/Warsaw
+447,"Straight Arrow Products, Inc.",62001-0319,64-120,21 Harper Center,Poland,Europe/Warsaw
+448,HyVee Inc,42507-379,271058,49423 Rutledge Trail,Colombia,America/Bogota
+449,STAT RX USA LLC,16590-870,J3V,0588 Mallard Plaza,Canada,America/Montreal
+450,Rebel Distributors Corp,21695-111,36689,9888 Leroy Terrace,United States,America/Chicago
+451,"Watson Pharma, Inc.",52544-484,K7S,67 Hallows Road,Canada,America/Montreal
+452,REMEDYREPACK INC.,52125-390,06705,077 Cottonwood Avenue,United States,America/New_York
+453,Lake Erie Medical DBA Quality Care Products LLC,35356-833,,14941 East Drive,China,Asia/Shanghai
+454,"Allermed Laboratories, Inc.",49643-307,46857,3082 Moose Road,United States,America/Indiana/Indianapolis
+455,Sandoz Inc,0781-1556,,4661 North Drive,China,Asia/Shanghai
+456,WIZCOZ CORPORATION LTD,49715-006,CB4,264 Orin Hill,United Kingdom,Europe/London
+457,"General Injectables & Vaccines, Inc",52584-040,,175 Pepper Wood Place,China,Asia/Chongqing
+458,Viny Health and Beauty Inc,76436-201,,73278 Pierstorff Trail,Ukraine,Europe/Zaporozhye
+459,Sandoz Inc,0781-5939,,67 Chive Circle,China,Asia/Shanghai
+460,"Aphena Pharma Solutions - Tennessee, Inc.",43353-773,,18764 Upham Place,China,Asia/Chongqing
+461,Apotheca Company,57520-0149,,858 Kensington Avenue,China,Asia/Chongqing
+462,"Antigen Laboratories, Inc.",49288-0058,378 33,59223 Red Cloud Junction,Czech Republic,Europe/Prague
+463,"Preferred Pharmaceuticals, Inc",68788-9113,,55920 Stoughton Lane,China,Asia/Chongqing
+464,Stratus Pharamceuticals,58980-452,,86 Anhalt Point,China,Asia/Shanghai
+465,Good Neighbor Pharmacy,24385-685,,7399 Straubel Point,China,Asia/Harbin
+466,REMEDYREPACK INC.,49349-987,,69687 Darwin Plaza,China,Asia/Urumqi
+467,"CBI Laboratories, Inc",24623-001,63-440,0804 Merchant Hill,Poland,Europe/Warsaw
+468,REMEDYREPACK INC.,52125-449,44-145,1 Lunder Drive,Poland,Europe/Warsaw
+469,Greenstone LLC,59762-0040,,3354 Debra Center,China,Asia/Chongqing
+470,AnazaoHealth Corporation,51808-101,,8 Linden Hill,China,Asia/Chongqing
+471,"AAA Pharmaceutical, Inc.",57344-120,S9H,4 Beilfuss Parkway,Canada,America/Regina
+472,Valu Merchandisers Company (Best Choice),63941-146,3844,994 David Hill,Netherlands,Europe/Amsterdam
+473,"Deseret Biologicals, Inc.",43742-0413,,664 Anthes Point,Ukraine,Europe/Kiev
+474,Apotex Corp,60505-2588,8804,46522 Lotheville Way,Hungary,Europe/Budapest
+475,"PD-Rx Pharmaceuticals, Inc.",43063-288,,464 Erie Lane,China,Asia/Chongqing
+476,Rite Aid,11822-0664,31079 CEDEX 5,932 Claremont Lane,France,Europe/Paris
+477,Jubilant HollisterStier LLC,65044-1747,,7 Reindahl Circle,China,Asia/Shanghai
+478,ENCHANTE ACCESSORIES INC.,50563-186,62-035,4 Mesta Point,Poland,Europe/Warsaw
+479,General Distributing Company,10451-003,J7G,31484 Arkansas Lane,Canada,America/Montreal
+480,Native Remedies LLC,68703-002,35805,445 Dorton Drive,United States,America/Chicago
+481,Proficient Rx LP,63187-044,29215,42 Sunfield Terrace,United States,America/New_York
+482,"Avon Products, Inc",10096-0189,4894,927 Thierer Court,New Zealand,Pacific/Auckland
+483,"Sun & Skin Care Research, LLC",62802-222,262 03,74 Beilfuss Park,Czech Republic,Europe/Prague
+484,Health Care Laboratories Inc.,62391-001,,4321 Crowley Junction,China,Asia/Shanghai
+485,Personal Care Products LLC,29500-9208,0748,02216 Logan Trail,New Zealand,Pacific/Auckland
+486,"Shopko Stores Operating Co., LLC.",37012-110,80104 CEDEX,21631 Harper Avenue,France,Europe/Paris
+487,"L.N.K. International, Inc.",50844-392,,505 Evergreen Plaza,China,Asia/Harbin
+488,"Acura Pharmaceuticals, Inc.",48964-112,,85591 Hovde Street,China,Asia/Shanghai
+489,GlaxoSmithKline LLC,0173-0737,870-0106,59 Comanche Hill,Japan,Asia/Tokyo
+490,"Preferred Pharmaceuticals, Inc",68788-9871,,90962 Veith Lane,China,Asia/Harbin
+491,Keltman Pharmaceuticals Inc.,68387-550,,18 Lillian Alley,China,Asia/Shanghai
+492,"Acella Pharmaceuticals, LLC",42192-110,2665-189,43 Center Plaza,Portugal,Europe/Lisbon
+493,Qualitest Pharmaceuticals,0603-3887,,113 Drewry Pass,China,Asia/Chongqing
+494,"International Medication Systems, Limited",76329-1911,,6278 Waubesa Street,China,Asia/Chongqing
+495,"PD-Rx Pharmaceuticals, Inc.",55289-144,,66 Sachs Lane,China,Asia/Chongqing
+496,Actavis Inc.,45963-555,9700-602,01 New Castle Road,Portugal,Africa/Accra
+497,International Nature Nutraceuticals,51367-017,94952 CEDEX 9,64 Duke Junction,France,Europe/Paris
+498,"Novartis Consumer Health, Inc.",0067-6292,,384 Kings Road,China,Asia/Shanghai
+499,SUN PHARMACEUTICAL INDUSTRIES LIMITED,62756-521,,1 Bluestem Court,China,Asia/Shanghai
+500,The Medicines Company,65293-411,,29825 Crowley Circle,China,Asia/Chongqing
+501,Procter & Gamble Manufacturing Company,37000-020,13281 CEDEX 06,28 Reinke Pass,France,Europe/Paris
+502,"ABLE C&C CO., LTD.",13733-050,437-0026,5 Judy Park,Japan,Asia/Tokyo
+503,"Nationwide Laboratories, LLC",42937-702,,930 Crescent Oaks Park,Ukraine,Europe/Uzhgorod
+504,The Procter & Gamble Manufacturing Company,37000-851,2440-370,8 Rieder Pass,Portugal,Europe/Lisbon
+505,Sam's West Inc,68196-612,,653 Mayer Way,China,Asia/Shanghai
+506,Ionx Holdings d/b/a HelloLife,49726-025,,1834 Fordem Court,Ukraine,Europe/Kiev
+507,"Antigen Laboratories, Inc.",49288-0835,4894,1192 Pennsylvania Hill,New Zealand,Pacific/Auckland
+508,Mylan Pharmaceuticals Inc.,0378-0076,,8 Spenser Crossing,China,Asia/Shanghai
+509,"DOLGENCORP, LLC",55910-932,362 25,97 Westridge Plaza,Czech Republic,Europe/Prague
+510,"Liberty Pharmaceuticals, Inc.",0440-7380,4950-332,72803 Clove Circle,Portugal,Europe/Madrid
+511,Target Corporation,11673-517,01-517,35 Almo Street,Poland,Europe/Warsaw
+512,Publix Super Markets Inc,56062-994,,2 Golden Leaf Lane,China,Asia/Chongqing
+513,SHISEIDO AMERICA INC.,52686-244,764008,99 Cherokee Alley,Colombia,America/Bogota
+514,Blaine Labs Inc.,63347-112,,14222 Artisan Way,South Korea,Asia/Seoul
+515,"Anacor Pharmaceuticals, Inc.",55724-111,,53783 Jackson Park,China,Asia/Chongqing
+516,McKesson Medical-Surgical Inc.,68599-5303,,8 Stuart Terrace,China,Asia/Chongqing
+517,Citron Pharma LLC,57237-066,437-1604,34 Bayside Parkway,Japan,Asia/Tokyo
+518,"Preferred Pharmaceuticals, Inc",68788-9109,,0 Fair Oaks Parkway,Estonia,Europe/Tallinn
+519,REMEDYREPACK INC.,52125-200,4480-493,66 Almo Crossing,Portugal,Europe/Lisbon
+520,"Aphena Pharma Solutions - Tennessee, Inc.",43353-721,,58 Meadow Ridge Center,China,Asia/Shanghai
+521,PureTek Corporation,59088-120,,8 Buena Vista Lane,China,Asia/Chongqing
+522,American Health Packaging,68084-350,250 70,98716 Sutherland Parkway,Czech Republic,Europe/Prague
+523,RedPharm Drug Inc.,67296-0544,,4513 Anderson Court,China,Asia/Chongqing
+524,NARS Cosmetics,13734-103,4605-169,25 Westport Court,Portugal,Europe/Lisbon
+525,"Ingenus Pharmaceuticals, LLC",50742-101,,08 Dovetail Place,China,Asia/Chongqing
+526,"Kinray, Inc.",61715-094,D6W,21 International Road,Ireland,Europe/Dublin
+527,REMEDYREPACK INC.,49349-844,,0 Sachtjen Way,China,Asia/Chongqing
+528,"H & C Oxygen, Inc.",46911-001,675 02,38 Coolidge Alley,Czech Republic,Europe/Prague
+529,McKesson Packaging Services a business unit of McKesson Corporation,63739-167,,82 Troy Pass,China,Asia/Chongqing
+530,"Physicians Total Care, Inc.",54868-5477,152247,6 4th Pass,Colombia,America/Bogota
+531,Dr. Reddy's Laboratories Inc,43598-004,,1 Gulseth Crossing,China,Asia/Chongqing
+532,"Preferred Pharmaceuticals, Inc.",68788-9958,,9266 Fordem Point,China,Asia/Harbin
+533,"Solco healthcare U.S., LLC",43547-335,34114,8624 Briar Crest Pass,United States,America/New_York
+534,"Hospira, Inc.",0409-3613,07139 CEDEX,6642 Utah Crossing,France,Europe/Paris
+535,Eisai Inc.,62856-603,414029,3103 Northport Avenue,Colombia,America/Bogota
+536,"Amylin Pharmaceuticals, LLC",66780-310,,2 Hermina Park,China,Asia/Chongqing
+537,"Renaissance Pharma, Inc.",40085-215,06-120,4 Onsgard Crossing,Poland,Europe/Warsaw
+538,St Marys Medical Park Pharmacy,60760-433,3570-014,9 Merry Terrace,Portugal,Europe/Lisbon
+539,Apotex Corp.,60505-3604,A85,9 Eliot Hill,Ireland,Europe/Dublin
+540,State of Florida DOH Central Pharmacy,53808-0334,,265 Pepper Wood Drive,China,Asia/Shanghai
+541,Oceanside Pharmaceuticals,68682-368,90065,5 Helena Center,United States,America/Los_Angeles
+542,Gen-Source Rx,52343-044,,245 Delaware Junction,China,Asia/Chongqing
+543,AMERICAN SALES COMPANY,41520-280,,57231 Parkside Terrace,China,Asia/Chongqing
+544,Apotex Corp,60505-0748,95973,62 Dottie Pass,United States,America/Los_Angeles
+545,Artec Chemical Company Limited,76352-001,64044 CEDEX,4 Elka Court,France,Europe/Paris
+546,Greenstone LLC,59762-3080,S33,7 South Park,United Kingdom,Europe/London
+547,"Nan Mei Pharmaceutical Co., Ltd.",62699-2212,,8364 Gerald Parkway,China,Asia/Shanghai
+548,"Physicians Total Care, Inc.",54868-4898,1633,3 Orin Road,Denmark,Europe/Copenhagen
+549,JAFRA COSMETICS INTERNATIONAL,68828-165,,3667 Eastwood Point,China,Asia/Chongqing
+550,Rebel Distributors Corp,21695-422,10250,7 Mifflin Center,Croatia,Europe/Zagreb
+551,"Preferred Pharmaceuticals, Inc.",68788-0600,,642 Larry Alley,China,Asia/Chongqing
+552,Mylan Pharmaceuticals Inc.,0378-3495,3830-455,5256 Declaration Lane,Portugal,Europe/Lisbon
+553,"AAA Pharmaceutical, Inc.",57344-123,H65,597 Oakridge Pass,Ireland,Europe/Dublin
+554,Geritrex Corp.,54162-925,,553 Novick Lane,Ukraine,Europe/Uzhgorod
+555,McKesson Contract Packaging,76237-181,5904,7990 Ramsey Circle,Netherlands,Europe/Amsterdam
+556,Major Pharmaceuticals,0904-6334,,33528 Victoria Point,China,Asia/Chongqing
+557,"Hawthorn Pharmaceuticals, Inc.",63717-332,59640,719 Mcbride Court,France,Europe/Paris
+558,"Silarx Pharmaceuticals, Inc",54838-514,21230,2059 Westerfield Junction,Croatia,Europe/Zagreb
+559,"IWS Gas and Supply of Texas, LTD",53425-001,735538,24 Carey Junction,Colombia,America/Bogota
+560,"Personal Care Products, Inc.",29500-2434,,98708 Evergreen Park,China,Asia/Chongqing
+561,REMEDYREPACK INC.,52125-414,54304 CEDEX,1 Brown Park,France,Europe/Paris
+562,Novo Nordisk,0169-7010,69406 CEDEX 03,7243 Prairie Rose Circle,France,Europe/Paris
+563,"Elizabeth Arden, Inc",67938-0937,,40878 Bayside Junction,China,Asia/Shanghai
+564,Uriel Pharmacy Inc.,48951-3043,,67 Sunnyside Crossing,China,Asia/Shanghai
+565,Rebel Distributors Corp,42254-046,083010,27912 Surrey Place,Colombia,America/Bogota
+566,Precision Dose Inc.,68094-107,D6W,6 Gina Alley,Ireland,Europe/Dublin
+567,Amneal Pharmaceuticals,65162-711,76-002,0 Sage Drive,Poland,Europe/Warsaw
+568,Mallinckrodt Inc.,0406-9206,,91 Mifflin Lane,China,Asia/Chongqing
+569,"Nelco Laboratories, Inc.",36987-1663,,67 Hovde Street,Ukraine,Europe/Uzhgorod
+570,Ipca Laboratories Limited,57451-5066,,02 Helena Parkway,China,Asia/Shanghai
+571,"KVK-Tech, Inc.",10702-070,,6 Laurel Junction,Ukraine,Europe/Uzhgorod
+572,"Patriot Pharmaceuticals, LLC",10147-0892,10612,22 Mitchell Point,Malaysia,Asia/Kuala_Lumpur
+573,"Golden State Medical Supply, Inc.",60429-508,3050-015,577 Hooker Plaza,Portugal,Europe/Lisbon
+574,"HANLIM PHARM. CO., LTD.",11716-0051,,32 Trailsway Way,China,Asia/Chongqing
+575,"General Injectables & Vaccines, Inc",52584-020,77-330,035 Corscot Circle,Poland,Europe/Warsaw
+576,Immunex Corporation,58406-425,8200-005,9331 Kinsman Alley,Portugal,Europe/Lisbon
+577,McKesson Contract Packaging,76237-253,,44 Prairieview Junction,South Korea,Asia/Seoul
+578,"Novartis Consumer Health, Inc.",0067-2055,36104 CEDEX,9 Corben Drive,France,Europe/Paris
+579,"WOONSOCKET PRESCRIPTION CENTER,INCORPORATED",59779-600,,2804 Hooker Way,China,Asia/Shanghai
+580,Zydus Pharmaceuticals (USA) Inc.,68382-196,,3 Luster Terrace,China,Asia/Shanghai
+581,HART Health,50332-0032,675 01,2 Esch Alley,Czech Republic,Europe/Prague
+582,"Lupin Pharmaceuticals, Inc.",68180-303,373 41,683 Ilene Center,Czech Republic,Europe/Prague
+583,"Par Pharmaceutical, Inc.",49884-211,,03 Carey Street,China,Asia/Shanghai
+584,"Medline Industries, Inc.",53329-804,999-5313,75623 Bunker Hill Plaza,Japan,Asia/Tokyo
+585,Rebel Distributors Corp,21695-966,,7 Warbler Court,China,Asia/Chongqing
+586,"Watson Laboratories, Inc.",0591-0240,7940-374,42041 Stang Point,Portugal,Europe/Lisbon
+587,Uriel Pharmacy Inc.,48951-4018,,06 South Terrace,China,Asia/Shanghai
+588,"Safeway, Inc.",21130-036,59009,995 Coleman Park,Lithuania,Europe/Vilnius
+589,Hyland's,54973-3109,,7350 Oxford Circle,China,Asia/Chongqing
+590,"Physicians Total Care, Inc.",54868-5581,,875 Helena Place,China,Asia/Chongqing
+591,St. Marys Medical Park Pharmacy,60760-911,4765-190,2126 Lien Terrace,Portugal,Europe/Lisbon
+592,Fischer Pharmaceuticlas Ltd.,59886-413,77224 CEDEX,0777 Bluejay Center,France,Europe/Paris
+593,Kramer Novis,52083-057,741-0062,2 Lotheville Park,Japan,Asia/Tokyo
+594,"ILEX Consumer Products Group, LLC (ST. JOSEPH)",76000-370,93584,07144 Mifflin Avenue,United States,America/Los_Angeles
+595,Ranbaxy Pharmaceuticals Inc.,63304-790,,435 Commercial Court,Georgia,Asia/Tbilisi
+596,PD MERC LLC,50211-001,67024 CEDEX 1,8826 East Junction,France,Europe/Paris
+597,"Harris Pharmaceutical, Inc.",67405-110,3405-077,11 Sauthoff Drive,Portugal,Europe/Lisbon
+598,"Rodan & Fields, LLC",14222-2000,201018,303 Bobwhite Crossing,Colombia,America/Bogota
+599,Unit Dose Services,50436-0172,,9 Lotheville Hill,China,Asia/Shanghai
+600,Apotheca Company,57520-0271,,11 Lighthouse Bay Junction,China,Asia/Shanghai
+601,Kroger Company,30142-202,K6A,5 Little Fleur Point,Canada,America/Vancouver
+602,B. Braun Medical Inc.,0264-7389,,7 Russell Place,China,Asia/Chongqing
+603,Bristol-Myers Squibb Company,0087-6060,,38 Karstens Lane,China,Asia/Harbin
+604,Family Dollar,55319-042,,28129 Esch Parkway,China,Asia/Chongqing
+605,"Libertas Pharma, Inc.",51862-162,,558 Burrows Plaza,Ukraine,Europe/Kiev
+606,Mylan Pharmaceuticals Inc.,0378-1430,,66764 Farmco Park,China,Asia/Shanghai
+607,KJI Industrial Co Ltd,34690-6001,,96 Old Shore Pass,China,Asia/Chongqing
+608,Sandoz Inc,0781-3094,,7316 Farragut Drive,China,Asia/Chongqing
+609,Sanum Kehlbeck GmbH & Co. KG,60681-0104,,7679 Oneill Terrace,China,Asia/Shanghai
+610,Qualitest Pharmaceuticals,0603-5091,,20 Center Junction,China,Asia/Shanghai
+611,Cardinal Health,55154-5082,68092 CEDEX 2,48304 Meadow Vale Point,France,Europe/Paris
+612,Energizer Personal Care LLC,63354-291,R51,50029 Crownhardt Trail,Ireland,Europe/Dublin
+613,Amway Corp,50390-111,,09942 Bartillon Way,Singapore,Asia/Singapore
+614,"SJ Creations, Inc.",43269-750,,11 Lyons Pass,China,Asia/Chongqing
+615,"Professional Disposables International, Inc.",10819-5813,,5 Kenwood Lane,Latvia,Europe/Riga
+616,State of Florida DOH Central Pharmacy,53808-0223,,7032 Merchant Lane,China,Asia/Shanghai
+617,ENCHANTE ACCESSORIES INC.,50563-183,763 26,32225 Kim Point,Czech Republic,Europe/Prague
+618,"Upsher-Smith Laboratories, Inc.",0245-0423,3543,76 Hovde Court,New Zealand,Pacific/Auckland
+619,Jubilant HollisterStier LLC,65044-2860,,83685 Comanche Terrace,Israel,Asia/Jerusalem
+620,Precision Dose Inc.,68094-650,,116 Morningstar Place,China,Asia/Chongqing
+621,Family Dollar,55319-310,V9J,2437 West Place,Canada,America/Montreal
+622,Bryant Ranch Prepack,63629-4521,05-270,79697 Jana Street,Poland,Europe/Warsaw
+623,Sancilio & Company Inc,44946-1012,22179,4 Rigney Way,Germany,Europe/Berlin
+624,H E B,37808-097,,00691 Dottie Junction,Ukraine,Europe/Simferopol
+625,"Hospira, Inc",0409-7332,,55 Karstens Avenue,China,Asia/Chongqing
+626,Western Family Foods Inc,55312-096,3600-587,0 Susan Street,Portugal,Europe/Lisbon
+627,Ricola Ag,54305-175,,5729 Division Street,China,Asia/Shanghai
+628,"Galderma Laboratories, L.P.",0299-3839,,47 Linden Court,China,Asia/Chongqing
+629,Boots Retail USA Inc,68472-075,1097,2311 Mosinee Park,Hungary,Europe/Budapest
+630,Meijer Distribution Inc,41250-517,,68249 Macpherson Way,China,Asia/Harbin
+631,"Hospira, Inc.",0409-4051,,2160 Nelson Place,China,Asia/Harbin
+632,Supervalu Inc,41163-958,SY4,9205 Norway Maple Circle,United Kingdom,Europe/London
+633,DIRECT RX,61919-100,95-036,239 Eagle Crest Alley,Poland,Europe/Warsaw
+634,REMEDYREPACK INC.,52125-405,,1676 Washington Street,China,Asia/Shanghai
+635,"Medline Industries, Inc.",53329-827,,0 Blue Bill Park Parkway,China,Asia/Chongqing
+636,Topco Associates LLC,36800-337,,82391 Pierstorff Junction,China,Asia/Chongqing
+637,Energetix Corp,64578-0091,,4578 Mifflin Circle,China,Asia/Shanghai
+638,"Nelco Laboratories, Inc.",36987-1102,503 21,6185 Victoria Center,Czech Republic,Europe/Prague
+639,"Antigen Laboratories, Inc.",49288-0083,4850-194,7 1st Parkway,Portugal,Europe/Lisbon
+640,B. Braun Medical Inc.,0264-7703,,14 Coleman Point,China,Asia/Shanghai
+641,Valeant Pharmaceuticals North America LLC,0187-1617,939-1733,69807 Burning Wood Drive,Japan,Asia/Tokyo
+642,HOMEOLAB USA INC.,60512-0004,,3821 John Wall Hill,China,Asia/Chongqing
+643,Morgan Gallacher Inc.,50241-014,,83805 Bunker Hill Terrace,China,Asia/Shanghai
+644,"Nelco Laboratories, Inc.",36987-1751,,56074 Basil Alley,China,Asia/Chongqing
+645,Unit Dose Services,50436-5559,,5 Transport Road,China,Asia/Shanghai
+646,Orchid Healthcare (a division of Orchid Chemicals & Pharmaceuticals Ltd.),68820-106,,0 Haas Terrace,Western Sahara,Africa/El_Aaiun
+647,Supervalu Inc,41163-707,,28484 Sutteridge Circle,Ukraine,Europe/Zaporozhye
+648,Cardinal Health,55154-2085,50700,093 Jenna Trail,Malaysia,Asia/Kuala_Lumpur
+649,HyVee Inc,42507-839,06127,282 Arkansas Park,United States,America/New_York
+650,Sagent Pharmaceticals,25021-402,73031 CEDEX,02256 Pleasure Circle,France,Europe/Paris
+651,Amerisource Bergen,46122-200,3400-759,092 Bobwhite Park,Portugal,Europe/Lisbon
+652,RITE AID CORPORATION,11822-9017,,1 Sunbrook Point,China,Asia/Chongqing
+653,West-ward Pharmaceutical Corp.,0641-6072,1532,623 Memorial Way,Denmark,Europe/Copenhagen
+654,McKesson Contract Packaging,76237-152,79309 CEDEX,4297 Grim Pass,France,Europe/Paris
+655,Sesvalia USA LLC,63181-0010,,28116 Elka Circle,China,Asia/Shanghai
+656,China Ningbo Shangge Cosmetic Technology Corp,58503-040,20359,4 Kenwood Center,Germany,Europe/Berlin
+657,Uriel Pharmacy Inc.,48951-7116,,184 Toban Center,China,Asia/Shanghai
+658,Washington Homeopathic Products,68428-742,,7 Morningstar Plaza,China,Asia/Chongqing
+659,"Preferred Pharmaceuticals, Inc.",68788-9920,01673,390 Dennis Trail,Malaysia,Asia/Kuala_Lumpur
+660,"ORLANE, Inc.",65371-030,,2 Morningstar Plaza,China,Asia/Harbin
+661,"Physicians Total Care, Inc.",54868-2841,2485-203,28 West Place,Portugal,Europe/Lisbon
+662,"NCS HealthCare of KY, Inc dba Vangard Labs",0615-7755,783 73,00367 Daystar Terrace,Czech Republic,Europe/Prague
+663,"GOJO Industries, Inc.",21749-150,,513 Golf Parkway,China,Asia/Shanghai
+664,Vistakon Pharmaceuticals LLC,68669-525,,00 Fairfield Park,Georgia,Asia/Tbilisi
+665,REMEDYREPACK INC.,24236-754,61105,1829 Farwell Avenue,United States,America/Chicago
+666,Cantrell Drug Company,52533-074,,763 High Crossing Point,Ukraine,Europe/Uzhgorod
+667,Sandoz Inc,0781-1228,4808,11032 Karstens Park,Norway,Europe/Oslo
+668,Cardinal Health,55154-7206,,83640 Luster Junction,China,Asia/Chongqing
+669,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,35356-619,,62452 Moulton Alley,China,Asia/Shanghai
+670,Mylan Institutional LLC,67457-215,75270 CEDEX 06,132 Forest Run Drive,France,Europe/Paris
+671,Jafra Cosmetics International Inc,68828-100,1028,752 Little Fleur Court,Australia,Australia/Sydney
+672,Major Pharmaceuticals,0904-5952,4004,885 Monument Hill,Hungary,Europe/Budapest
+673,"Mallinckrodt, Inc.",0406-0359,794-2550,4279 Waywood Street,Japan,Asia/Tokyo
+674,E. Fougera & Co. a division of Fougera Pharmaceuticals Inc.,0168-0522,,47 International Alley,China,Asia/Chongqing
+675,Bryant Ranch Prepack,63629-4383,,1157 Anderson Avenue,China,Asia/Chongqing
+676,Cardinal Health,55154-5066,,7539 Autumn Leaf Junction,China,Asia/Chongqing
+677,Bryant Ranch Prepack,63629-4762,29505,684 Straubel Place,United States,America/New_York
+678,"Trinity Pharmaceuticals, LLC",54295-312,,71103 Di Loreto Alley,South Korea,Asia/Seoul
+679,Stat Rx USA,16590-244,36104 CEDEX,9 Manitowish Alley,France,Europe/Paris
+680,"NATURE REPUBLIC CO., LTD.",51346-231,46025,4872 Cascade Alley,Spain,Europe/Madrid
+681,"Physicians Total Care, Inc.",54868-6136,2490-105,4546 Nelson Court,Portugal,Europe/Lisbon
+682,Acme United Corporation,0924-0140,2655-082,29 Fisk Crossing,Portugal,Europe/Lisbon
+683,"Allegis Pharmaceuticals, LLC",28595-803,43-354,20 Mesta Court,Poland,Europe/Warsaw
+684,Ranbaxy Pharmaceuticlas Inc,63304-205,,8 Parkside Road,China,Asia/Chongqing
+685,Merck Sharp & Dohme Corp.,0006-0960,,29550 Anzinger Way,China,Asia/Shanghai
+686,Foodhold,41520-041,,96 Talisman Center,China,Asia/Harbin
+687,Procter & Gamble Manufacturing Company,37000-775,,17227 Northview Point,China,Asia/Chongqing
+688,SAFEWAY INC.,21130-461,664028,6 Burrows Hill,Colombia,America/Bogota
+689,"Nico Worldwide, Inc.",42638-7663,47240,1 Loomis Place,Croatia,Europe/Sarajevo
+690,American Sales Company,41520-384,T7Z,39452 Cody Circle,Canada,America/Montreal
+691,Lake Erie Medical DBA Quality Care Products LLC,35356-881,382 73,7397 Northland Court,Czech Republic,Europe/Vienna
+692,Lead Chemical Co. Ltd.,62168-0843,761517,305 Iowa Place,Colombia,America/Bogota
+693,"Medline Industries, Inc.",53329-065,904-0401,0 Dahle Place,Japan,Asia/Tokyo
+694,"TONYMOLY CO., LTD.",59078-014,,73 Crescent Oaks Street,China,Asia/Chongqing
+695,"Hospira, Inc.",0409-3400,,73 Corry Hill,China,Asia/Chongqing
+696,"Nova Homeopathic Therapeutics, Inc.",52731-7007,,4231 Riverside Trail,China,Asia/Shanghai
+697,"Allergy Laboratories, Inc.",54575-214,,66747 Schurz Point,Ukraine,Europe/Zaporozhye
+698,Cardinal Health,55154-0127,,715 Fieldstone Road,China,Asia/Chongqing
+699,Topco Associates LLC,36800-799,,5 Delladonna Center,Ukraine,Europe/Zaporozhye
+700,Keltman Pharmaceuticals Inc.,68387-410,,0 Declaration Parkway,China,Asia/Harbin
+701,"NATURE REPUBLIC CO., LTD.",51346-113,,80 Dunning Plaza,China,Asia/Shanghai
+702,Rebel Distributors Corp.,21695-324,3300-043,84941 Lakewood Gardens Lane,Portugal,Europe/Lisbon
+703,"Watson Laboratories, Inc.",0591-3797,69245 CEDEX 05,49495 Prairie Rose Parkway,France,Europe/Paris
+704,"Carver Korea Co.,Ltd",58930-063,38-473,741 Sunnyside Parkway,Poland,Europe/Warsaw
+705,"Nelco Laboratories, Inc.",36987-1053,50309 CEDEX,0 Walton Center,France,Europe/Paris
+706,Wakefern Food Corporation,41190-374,45296,1 Trailsway Circle,United States,America/New_York
+707,Mylan Pharmaceuticals Inc.,0378-5042,22-640,90873 Bayside Trail,Poland,Europe/Warsaw
+708,"Antigen Laboratories, Inc.",49288-0431,,743 Hazelcrest Terrace,China,Asia/Chongqing
+709,Select Brand Distributors,15127-003,14205,3663 Bluestem Court,United States,America/New_York
+710,Astellas Pharma US Inc.,0469-3575,56001,4 Carioca Circle,Lithuania,Europe/Vilnius
+711,Jafra Cosmetics International Inc,68828-171,760050,350 Lien Drive,Colombia,America/Bogota
+712,"Affordable Pharmaceuticals, LLC",10572-302,,4451 Summerview Plaza,China,Asia/Chongqing
+713,"ATOMY CO., LTD.",52257-1202,62-090,23919 Ramsey Circle,Poland,Europe/Warsaw
+714,"ABCO Laboratories, Inc.",54118-7199,,50538 Scott Point,China,Asia/Harbin
+715,REMEDYREPACK INC.,52125-383,,88 Fisk Terrace,Singapore,Asia/Singapore
+716,"Pliva, Inc.",50111-787,,0 1st Parkway,China,Asia/Shanghai
+717,HHS/Program Support Center/Supply Service Center,11819-311,K78,28914 2nd Street,Ireland,Europe/Dublin
+718,"PD-Rx Pharmaceuticals, Inc.",55289-410,T7Z,06 Marcy Junction,Canada,America/Edmonton
+719,"Nelco Laboratories, Inc.",36987-1945,94263,74 Granby Way,United States,America/Los_Angeles
+720,Xspire Pharma LLC,42195-210,,8 Annamark Circle,China,Asia/Shanghai
+721,Dr. Reddy's Laboratories Limited,55111-320,,80 American Ash Plaza,China,Asia/Harbin
+722,"Shanghai Aquagel Bio-Plymer Co., Ltd",53043-001,,36788 Stephen Junction,China,Asia/Chongqing
+723,"Galena Biopharma, Inc.",57881-334,,70844 Muir Parkway,China,Asia/Harbin
+724,Novadaq Technologies Inc.,66259-701,,47 4th Center,China,Asia/Shanghai
+725,Uriel Pharmacy Inc,48951-1001,,7984 Beilfuss Crossing,China,Asia/Chongqing
+726,"Lil' Drug Store Products, Inc.",66715-9837,4650-291,3523 Sachs Parkway,Portugal,Europe/Lisbon
+727,Harmon Stores Inc.,63940-359,35015,0237 Hanover Junction,Spain,Atlantic/Canary
+728,"Upsher-Smith Laboratories, Inc.",0832-0401,,7270 Dunning Center,China,Asia/Shanghai
+729,"Western Family Food, Inc.",55312-053,2955-229,4686 Fordem Court,Portugal,Europe/Lisbon
+730,Cardinal Health,55154-6282,,2966 Mesta Pass,China,Asia/Shanghai
+731,TWB Strategic Investments Inc.,58665-001,379-2166,90443 Myrtle Point,Japan,Asia/Tokyo
+732,Piramal Critical Care Inc,66794-019,,40501 Sage Parkway,Ukraine,Europe/Uzhgorod
+733,"SHISEIDO CO., LTD.",52685-363,,1 Pond Place,China,Asia/Shanghai
+734,"Bestco, Inc.",52642-005,2440-191,86559 Dayton Center,Portugal,Europe/Lisbon
+735,Citron Pharma LLC,57237-056,34-471,7932 Beilfuss Avenue,Poland,Europe/Warsaw
+736,"Salix Pharmaceuticals, Inc.",65649-551,6320-315,6 Quincy Avenue,Portugal,Europe/Lisbon
+737,"EMD Serono, Inc.",44087-0022,3865-004,5 Morningstar Terrace,Portugal,Europe/Lisbon
+738,Rejoice International,57337-000,,66 Dexter Trail,China,Asia/Shanghai
+739,Uriel Pharmacy Inc.,48951-4057,4650-669,186 Dayton Way,Portugal,Europe/Lisbon
+740,"Nelco Laboratories, Inc.",36987-1912,,158 Tennessee Lane,China,Asia/Harbin
+741,NARS Cosmetics,13734-121,,87 Eastwood Terrace,China,Asia/Shanghai
+742,American Health Packaging,68084-591,134548,37 Nobel Plaza,Colombia,America/Bogota
+743,"Watson Laboratories, Inc.",0591-3193,,41 Banding Road,China,Asia/Chongqing
+744,Apotex Corp,60505-2652,,95 Monument Crossing,China,Asia/Chongqing
+745,Sanum Kehlbeck GmbH & Co. KG,60681-1704,66-418,07242 Kipling Park,Poland,Europe/Warsaw
+746,"AMI Cosmetic Co.,Ltd.",59535-9401,70116,6405 Ramsey Plaza,United States,America/Chicago
+747,Cardinal Health,49781-108,4930-005,02 Summit Circle,Portugal,Europe/Madrid
+748,Dr. Reddys Laboratories Limited,55111-356,,21281 Scofield Terrace,China,Asia/Shanghai
+749,Ranbaxy Laboratories Inc.,10631-238,,5212 Chive Point,China,Asia/Harbin
+750,Methapharm Inc.,64281-100,95011 CEDEX,6 Northport Trail,France,Europe/Paris
+751,"Fresenius Kabi USA, LLC",63323-117,94685 CEDEX,2846 Summit Road,France,Europe/Paris
+752,State of Florida DOH Central Pharmacy,53808-0717,,64 Cordelia Avenue,China,Asia/Shanghai
+753,"Therapytion Co., Ltd.",63214-100,4910-060,1 Mosinee Hill,Portugal,Europe/Lisbon
+754,GlaxoSmithKline Consumer Healthcare LP,0135-0196,,86 Merry Avenue,China,Asia/Shanghai
+755,American Health Packaging,68084-884,,3 Commercial Parkway,China,Asia/Shanghai
+756,"Newton Laboratories, Inc.",55714-2241,79404 CEDEX,8358 Lukken Crossing,France,Europe/Paris
+757,REMEDYREPACK INC.,52125-557,696 13,104 Bellgrove Hill,Czech Republic,Europe/Prague
+758,Natures Way Holding Co.,53499-0133,507 43,91 5th Lane,Czech Republic,Europe/Prague
+759,"Allermed Laboratories, Inc.",49643-420,336-0926,0 Summerview Lane,Japan,Asia/Tokyo
+760,"ALK-Abello, Inc.",0268-1111,,3068 Atwood Court,Latvia,Europe/Riga
+761,"Profoot, Inc.",29784-100,N5A,67289 Buhler Park,Canada,America/Halifax
+762,"Babor Cosmetics America, Corp.",44924-012,78682,9 Pond Crossing,United States,America/Chicago
+763,United Exchange Corp.,65923-385,,01 6th Lane,China,Asia/Chongqing
+764,Ventura Corporation LTD.,13537-499,,269 Thompson Lane,Estonia,Europe/Tallinn
+765,"Bath & Body Works, Inc.",62670-4807,,24510 Maple Circle,China,Asia/Shanghai
+766,STAT Rx USA LLC,42549-553,,82782 Schurz Way,China,Asia/Harbin
+767,Procter & Gamble Manufacturing Company,37000-367,L9T,63 Sachtjen Avenue,Canada,America/Vancouver
+768,Sandoz Inc.,0781-5184,,77970 Erie Alley,China,Asia/Shanghai
+769,McKesson (Health Mart),62011-0205,56274 CEDEX,0 Shasta Crossing,France,Europe/Paris
+770,"Nelco Laboratories, Inc.",36987-1952,69-210,7130 Union Crossing,Poland,Europe/Warsaw
+771,Neutrogena Corporation,10812-513,,2219 Hanson Hill,China,Asia/Chongqing
+772,NASH-FINCH COMPANY,70253-375,,66 New Castle Way,China,Asia/Shanghai
+773,Moore Medical LLC,55670-804,,62668 Memorial Parkway,China,Asia/Shanghai
+774,Harmon Stores Inc,63940-072,533 74,7646 Marquette Avenue,Czech Republic,Europe/Prague
+775,"Physicians Total Care, Inc.",54868-5673,,57218 Heffernan Place,China,Asia/Shanghai
+776,"Epic Pharma, LLC",42806-020,,9 Fuller Junction,China,Asia/Chongqing
+777,REMEDYREPACK INC.,49349-716,,780 Loeprich Drive,China,Asia/Shanghai
+778,American Health Packaging,68084-652,T9G,4372 Oneill Junction,Canada,America/Edmonton
+779,Aidarex Pharmaceuticals LLC,33261-185,53093,58779 Johnson Lane,Lithuania,Europe/Vilnius
+780,Parke-Davis Div of Pfizer Inc,0071-0007,,77567 Vidon Court,China,Asia/Chongqing
+781,Kramer Laboratories,55505-174,3930,58805 Wayridge Street,Norway,Europe/Oslo
+782,Major Pharmaceuticals,0904-6009,,29041 Thierer Center,China,Asia/Shanghai
+783,NeoStrata Company Inc.,58414-3047,62692,8855 Birchwood Parkway,Malaysia,Asia/Kuala_Lumpur
+784,"ALK-Abello, Inc.",0268-0858,13369 CEDEX 11,562 Mcguire Court,France,Europe/Paris
+785,Mylan Pharmaceuticals Inc.,0378-0214,13088,025 Ohio Place,Germany,Europe/Berlin
+786,SAM'S WEST INC.,68196-147,,26142 Melody Trail,China,Asia/Shanghai
+787,"KC Pharmaceuticals, Inc.",55651-264,D6W,82400 Everett Hill,Ireland,Europe/Dublin
+788,"Onyx Pharmaceuticals, Inc.",76075-101,,9 Forster Plaza,China,Asia/Chongqing
+789,Novartis Pharmaceuticals Corporation,0078-0492,,68035 Duke Point,China,Asia/Harbin
+790,LernaPharm Loris Inc.,68356-109,,01 Hayes Court,China,Asia/Harbin
+791,HyVee Inc,42507-903,,67 Meadow Vale Street,Latvia,Europe/Riga
+792,AbbVie Inc.,0074-2108,28230,55 Onsgard Parkway,United States,America/New_York
+793,"Bayer HealthCare LLC, Consumer Care",0280-4085,929-0203,18184 Nancy Road,Japan,Asia/Tokyo
+794,"ProStrakan, Inc.",42747-226,3060-816,1 Sunnyside Avenue,Portugal,Europe/Lisbon
+795,Family Dollar,55319-871,4580-313,652 Sherman Junction,Portugal,Europe/Lisbon
+796,Par Pharmaceutical Inc.,49884-668,1391,42751 Merry Hill,Australia,Australia/Sydney
+797,Citron Pharma LLC,57237-055,2440-024,20221 2nd Circle,Portugal,Europe/Lisbon
+798,"ALK-Abello, Inc.",0268-1519,87-522,9911 Melrose Plaza,Poland,Europe/Warsaw
+799,Bryant Ranch Prepack,63629-1250,203027,5 Lawn Lane,Colombia,America/Bogota
+800,"Roxane Laboratories, Inc",0054-0119,,51 Donald Center,China,Asia/Shanghai
+801,"Menper Distributors, Inc.",53145-057,4785-231,25080 Grasskamp Circle,Portugal,Europe/Lisbon
+802,"Wal-Mart Stores, Inc.",49035-240,05-430,805 Roxbury Trail,Poland,Europe/Warsaw
+803,L'Oreal USA Products Inc,49967-999,,429 Dwight Point,China,Asia/Shanghai
+804,Seatex Ltd,76250-995,798-1354,9 2nd Center,Japan,Asia/Tokyo
+805,The Kroger Co.,30142-890,,4 Commercial Lane,China,Asia/Shanghai
+806,REMEDYREPACK INC.,52125-791,,7 Quincy Pass,China,Asia/Chongqing
+807,KAISER FOUNDATION HOSPITALS,0179-0015,,889 Knutson Plaza,China,Asia/Chongqing
+808,DR. BRONNER'S MAGIC SOAPS,55814-101,,736 Rockefeller Parkway,China,Asia/Urumqi
+809,Mylan Pharmaceuticals Inc.,0378-0347,589 01,5 Scott Circle,Czech Republic,Europe/Prague
+810,Rising Pharmaceuticals Inc.,64980-163,869-1237,23 Cascade Lane,Japan,Asia/Tokyo
+811,Dr. Reddy's Laboratories Ltd,55111-475,93175 CEDEX,2963 Oxford Crossing,France,Europe/Paris
+812,"Kareway Product, Inc.",67510-0012,,6 Logan Plaza,China,Asia/Chongqing
+813,ATOMY CO LTD,52257-1002,3090-710,334 Declaration Crossing,Portugal,Europe/Lisbon
+814,Wal-Mart Stores Inc,49035-515,680568,542 Stang Drive,Colombia,America/Bogota
+815,International Nature Nutraceuticals,51367-021,,46287 Old Gate Trail,China,Asia/Chongqing
+816,Dr. Reddys Laboratories Limited,55111-356,8304,89 Raven Center,Netherlands,Europe/Amsterdam
+817,"Antigen Laboratories, Inc.",49288-0485,93154 CEDEX,79462 Golf View Avenue,France,Europe/Paris
+818,State of Florida DOH Central Pharmacy,53808-0982,391 75,2 Kingsford Trail,Czech Republic,Europe/Prague
+819,"NCS HealthCare of KY, Inc dba Vangard Labs",0615-7590,5857,609 Artisan Place,Norway,Europe/Oslo
+820,Guthy-Renker LLC,11410-804,,1110 Di Loreto Park,China,Asia/Chongqing
+821,BCM Cosmetique SAS,61589-6007,N8M,22926 Moland Junction,Canada,America/Regina
+822,Aidarex Pharmaceuticals LLC,33261-090,66-542,3084 Johnson Drive,Poland,Europe/Warsaw
+823,"Golden State Medical Supply, Inc.",60429-939,77109 CEDEX,0 Butternut Hill,France,Europe/Paris
+824,"American Regent, Inc.",0517-1071,94975,240 Farragut Circle,United States,America/Los_Angeles
+825,sanofi-aventis U.S. LLC,0024-0335,999-8317,14000 Fuller Circle,Japan,Asia/Tokyo
+826,Reckitt Benckiser LLC,63824-196,77453 CEDEX 2,33861 Union Center,France,Europe/Paris
+827,Sun Pharma Global FZE,47335-820,T4T,17 Oak Valley Way,Canada,America/Edmonton
+828,"Nelco Laboratories, Inc.",36987-1627,,1 Grayhawk Center,China,Asia/Chongqing
+829,Ranbaxy Pharmaceuticals Inc.,63304-452,,55 Summerview Court,China,Asia/Harbin
+830,Cardinal Health,55154-6950,1062,85 Bashford Drive,Hungary,Europe/Budapest
+831,L Perrigo Company,0113-0310,,9 Westend Parkway,China,Asia/Chongqing
+832,"ALK-Abello, Inc.",0268-6221,01-943,30 David Crossing,Poland,Europe/Warsaw
+833,"Nelco Laboratories, Inc.",36987-2166,2870-005,8988 Elgar Parkway,Portugal,Europe/Lisbon
+834,AstraZeneca LP,0186-5040,73295 CEDEX,26241 Dunning Lane,France,Europe/Paris
+835,"ZRG DETOX, INC.",62630-001,,290 Heffernan Avenue,China,Asia/Chongqing
+836,McKesson,62011-0100,4690-580,70455 Anderson Pass,Portugal,Europe/Lisbon
+837,Energetix Corp,64578-0068,,02 Michigan Junction,China,Asia/Chongqing
+838,Major Pharmaceuticals,0904-2613,664 56,9920 Holy Cross Way,Czech Republic,Europe/Prague
+839,RiconPharma LLC.,51125-006,,6945 Londonderry Street,China,Asia/Chongqing
+840,"MedVantx, Inc.",66116-455,08030,74 Dayton Terrace,Spain,Europe/Madrid
+841,"Hawthorn Pharmaceuticals, Inc.",63717-871,30323,40734 Blue Bill Park Court,United States,America/New_York
+842,REMEDYREPACK INC.,49349-547,,03 Quincy Way,Ukraine,Europe/Kiev
+843,Colgate-Palmolive Company,35000-865,703058,0 Steensland Place,Colombia,America/Bogota
+844,REMEDYREPACK INC.,49349-900,,2503 Clyde Gallagher Avenue,China,Asia/Harbin
+845,VVF Illinois Services,51815-209,,1 Superior Point,China,Asia/Chongqing
+846,"NATURE REPUBLIC CO., LTD.",51346-043,2435-127,69 Red Cloud Road,Portugal,Europe/Lisbon
+847,REMEDYREPACK INC.,52125-918,,3 Maple Junction,China,Asia/Chongqing
+848,Aidarex Pharmaceuticals LLC,33261-858,,5 Express Road,China,Asia/Shanghai
+849,Kimberly-Clark Corporation,55118-565,,3 Blaine Trail,China,Asia/Shanghai
+850,Natural Health Supply,64117-967,4750-771,1 Hayes Hill,Portugal,Europe/Lisbon
+851,"PharmaForce, Inc.",40042-025,,529 East Terrace,China,Asia/Shanghai
+852,Ranbaxy Pharmaceuticals Inc.,63304-497,,7 Kings Street,China,Asia/Chongqing
+853,DZA Brands LLC,55316-535,33129,97 Northview Drive,United States,America/New_York
+854,Insight Pharmaceuticals LLC,63736-310,,2 Utah Circle,China,Asia/Chongqing
+855,REMEDYREPACK INC.,49349-622,33715,2 La Follette Road,United States,America/New_York
+856,ARMY AND AIR FORCE EXCHANGE SERVICE,55301-351,,7 Evergreen Place,China,Asia/Shanghai
+857,"Janssen Pharmaceutical, Inc.",50458-592,B3S,389 Crownhardt Pass,Canada,America/Vancouver
+858,CVS Pharmacy,59779-536,,51772 Forest Drive,China,Asia/Shanghai
+859,STAT Rx USA LLC,42549-597,57990,0 Armistice Hill,Malaysia,Asia/Kuala_Lumpur
+860,"PD-Rx Pharmaceuticals, Inc.",43063-509,WC2H,348 Scoville Plaza,United Kingdom,Europe/London
+861,"Janssen Pharmaceuticals, Inc.",50458-925,,3 Caliangt Road,China,Asia/Chongqing
+862,"Dispensing Solutions, Inc.",66336-537,H9P,39570 6th Park,Canada,America/Vancouver
+863,American Red Cross,52164-1101,20436,18545 Nancy Place,United States,America/New_York
+864,Merck Sharp & Dohme Corp.,0085-1334,,718 Melrose Place,China,Asia/Chongqing
+865,McKesson,49348-023,L33,0712 Fordem Plaza,United Kingdom,Europe/London
+866,"Chattem, Inc.",41167-6021,549 01,5844 Nancy Road,Czech Republic,Europe/Prague
+867,"Aphena Pharma Solutions - Tennessee, LLC",43353-811,7737,853 Sunfield Way,Norway,Europe/Oslo
+868,"Physicians Total Care, Inc.",54868-5432,,73 Springview Street,China,Asia/Shanghai
+869,Acme United Corp.,0924-1807,63-301,7932 Colorado Trail,Poland,Europe/Warsaw
+870,Strides Arcolab Limited,64380-720,,297 Autumn Leaf Trail,China,Asia/Harbin
+871,"H.J. Harkins Company, Inc.",52959-746,731027,8943 Badeau Alley,Colombia,America/Bogota
+872,"Caraco Pharmaceutical Laboratories, Ltd.",57664-224,,4 Bultman Way,Ukraine,Europe/Zaporozhye
+873,REMEDYREPACK INC.,52125-715,,4416 Nova Park,China,Asia/Chongqing
+874,Parfums Christian Dior,61957-1102,,3 Independence Street,China,Asia/Shanghai
+875,"Antigen Laboratories, Inc.",49288-0833,,1542 Loeprich Crossing,China,Asia/Chongqing
+876,Accord Healthcare Inc.,16729-219,78093 CEDEX 9,50306 Monica Park,France,Europe/Paris
+877,Cardinal Health,55154-9433,26-330,935 Jay Terrace,Poland,Europe/Warsaw
+878,"Physicians Total Care, Inc.",54868-6089,40225,78728 Talisman Drive,Germany,Europe/Berlin
+879,REMEDYREPACK INC.,24236-303,4775-404,62 Rigney Hill,Portugal,Europe/Lisbon
+880,Medline Industries Inc.,53329-139,,4 Mccormick Street,China,Asia/Harbin
+881,Amerisource Bergen,24385-188,730019,8860 Ludington Junction,Colombia,America/Bogota
+882,McKesson Contract Packaging,76237-153,,63092 Eagle Crest Avenue,China,Asia/Harbin
+883,Advanced Generic Corporation,45737-217,52410,50 Drewry Pass,United States,America/Chicago
+884,Cardinal Health,55154-8299,,331 David Point,China,Asia/Chongqing
+885,"Hospira, Inc.",0409-9786,,270 Warrior Drive,China,Asia/Chongqing
+886,REMEDYREPACK INC.,49349-419,,954 Blaine Court,Ukraine,Europe/Uzhgorod
+887,Aidarex Pharmaceuticals LLC,33261-087,,0 Armistice Park,China,Asia/Shanghai
+888,"WOONSOCKET PRESCRIPTION CENTER,INCORPORATED",59779-019,838-0813,9308 Fairview Trail,Japan,Asia/Tokyo
+889,"Nelco Laboratories, Inc.",36987-1525,,52227 Main Junction,China,Asia/Chongqing
+890,"Weeks & Leo Co., Inc.",11383-257,90-510,700 Springview Crossing,Poland,Europe/Warsaw
+891,B. Braun Medical Inc.,0264-4460,81028 CEDEX 9,64 5th Street,France,Europe/Paris
+892,Sanum Kehlbeck GmbH & Co. KG,60681-8002,2970-137,715 Trailsway Point,Portugal,Europe/Lisbon
+893,"LEADER GREEN CO., LTD.",61221-020,5320-305,78564 Del Sol Alley,Portugal,Europe/Lisbon
+894,GlaxoSmithKline LLC,0173-0756,2140-215,7415 Haas Point,Portugal,Europe/Lisbon
+895,"Aloe Care International, LLC",61477-216,01-517,56 Caliangt Road,Poland,Europe/Warsaw
+896,Mylan Institutional Inc.,51079-409,7400-014,4073 Dawn Drive,Portugal,Europe/Lisbon
+897,Uriel Pharmacy Inc.,48951-1211,,74581 Bonner Alley,China,Asia/Harbin
+898,"L.N.K. International, Inc.",50844-227,,861 Ryan Way,China,Asia/Shanghai
+899,Dr. Dream Inc,53077-7001,,0713 Knutson Park,China,Asia/Chongqing
+900,Ranbaxy Laboratories Inc.,10631-116,2890-206,500 1st Point,Portugal,Europe/Lisbon
+901,Conopco Inc. d/b/a Unilever,64942-1128,686 04,8 Bartillon Parkway,Czech Republic,Europe/Prague
+902,"OMP, Inc.",62032-200,,6337 Muir Parkway,China,Asia/Chongqing
+903,"H.J. Harkins Company, Inc.",52959-055,,36926 Valley Edge Center,Ukraine,Europe/Simferopol
+904,BluePoint Laboratories,68001-162,,244 Coleman Road,China,Asia/Shanghai
+905,"Janssen Pharmaceuticals, Inc.",50458-540,,8 Reindahl Lane,China,Asia/Chongqing
+906,"Taro Pharmaceuticals U.S.A., Inc.",51672-4117,,8 Grasskamp Road,Ukraine,Europe/Kiev
+907,AMOREPACIFIC,43419-011,21-132,587 John Wall Street,Poland,Europe/Warsaw
+908,Select Corporation,52904-493,3742,8420 Macpherson Park,New Zealand,Pacific/Auckland
+909,STAT RX USA LLC,16590-295,,911 Express Trail,Estonia,Europe/Tallinn
+910,GE Healthcare Inc.,0407-0690,17314 CEDEX,9 Loomis Alley,France,Europe/Paris
+911,PuraVation Pharmaceuticals Inc,76270-116,,2 Spenser Court,China,Asia/Shanghai
+912,EXPRO3 LLC,42957-001,,04543 Wayridge Alley,South Korea,Asia/Seoul
+913,"PD-Rx Pharmaceuticals, Inc.",43063-196,,83139 Talmadge Lane,China,Asia/Shanghai
+914,Unique Holding Group Inc,25225-020,,941 Oak Court,Georgia,Asia/Tbilisi
+915,"Tercica, Inc.",15054-0211,704-8124,948 Rutledge Road,Japan,Asia/Tokyo
+916,"American Oxygen Company, Inc",54384-1072,,27 Hovde Court,China,Asia/Chongqing
+917,Kosan Kozmetik Sanayi ve Ticaret A.S.,61722-142,,01 Alpine Point,China,Asia/Harbin
+918,"BTA Pharmaceuticals, Inc.",64455-192,06804 CEDEX,57 Parkside Park,France,Europe/Paris
+919,"Safecor Health, LLC",48433-308,3080-222,6125 Commercial Drive,Portugal,Europe/Lisbon
+920,Jubilant HollisterStier LLC,65044-0788,3630-074,34880 Lillian Place,Portugal,Europe/Lisbon
+921,LABORATOIRES M&L,10345-027,,4 8th Avenue,China,Asia/Chongqing
+922,GlaxoSmithKline LLC,0173-0759,,969 Nevada Circle,China,Asia/Shanghai
+923,Shire US Manufacturing Inc.,54092-173,,7997 Westerfield Place,China,Asia/Shanghai
+924,"Laser Pharmaceuticals, LLC",16477-820,32282,3094 Monterey Crossing,Croatia,Europe/Zagreb
+925,Lake Erie Medical DBA Quality Care Products LLC,35356-582,,57582 Hanover Alley,China,Asia/Chongqing
+926,Boscia LLC,76151-241,P75,66 Goodland Trail,Ireland,Europe/Dublin
+927,Apotex Corp,60505-2967,,5818 Lerdahl Trail,China,Asia/Shanghai
+928,Reese Pharmaceutical Co.,10956-200,,42045 Lyons Circle,China,Asia/Chongqing
+929,Baxter Healthcare Corporation,0338-0519,,08 Vernon Plaza,China,Asia/Shanghai
+930,MEGASOL COSMETIC GMBH,53389-000,,15428 Bay Parkway,China,Asia/Shanghai
+931,"Galderma Laboratories, L.P.",0299-5770,369-0137,73 Rockefeller Lane,Japan,Asia/Tokyo
+932,"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.",58232-0022,150477,3697 Summerview Hill,Colombia,America/Bogota
+933,Amgen Inc,55513-075,,36 School Lane,China,Asia/Harbin
+934,KAS Direct LLC dba BabyGanics,59062-1247,72-330,5215 Caliangt Avenue,Poland,Europe/Warsaw
+935,State of Florida DOH Central Pharmacy,53808-0655,2540-664,14595 Ridgeway Trail,Portugal,Europe/Lisbon
+936,Major Pharmaceuticals,0904-6045,,9 Hovde Parkway,Taiwan,Asia/Taipei
+937,"Golden State Medical Supply, Inc",60429-214,,52 Longview Drive,Latvia,Europe/Riga
+938,"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.",58232-0033,,57 Division Street,China,Asia/Chongqing
+939,Washington Homeopathic Products,68428-722,,76720 Trailsway Court,China,Asia/Chongqing
+940,Access Business Group,10056-276,,8 Kenwood Way,China,Asia/Harbin
+941,NeoStrata Company Inc,58414-8808,23-415,8413 Thompson Trail,Poland,Europe/Warsaw
+942,"Noven Therapeutics, LLC",68968-3500,4640-540,8 Farragut Street,Portugal,Europe/Lisbon
+943,REMEDYREPACK INC.,49349-671,,433 Carpenter Hill,China,Asia/Shanghai
+944,Dickey Consumer Products DBA DMD,65193-144,365-0024,1 Roth Point,Japan,Asia/Tokyo
+945,Publix Super Markets Inc,56062-476,38-458,3966 Chive Way,Poland,Europe/Warsaw
+946,"Antigen Laboratories, Inc.",49288-0457,,969 Schiller Way,China,Asia/Shanghai
+947,Pfizer Laboratories Div Pfizer Inc,61570-048,35203 CEDEX 2,6136 Hanson Lane,France,Europe/Paris
+948,"Physicians Total Care, Inc.",54868-4230,4805-556,78 Dovetail Pass,Portugal,Europe/Lisbon
+949,"Chattem, Inc.",41167-6021,443049,76 Thompson Drive,Colombia,America/Bogota
+950,"Aphena Pharma Solutions - Tennessee, LLC",67544-237,,830 Ridgeview Circle,China,Asia/Shanghai
+951,Reckitt Benckiser LLC,63824-232,33169,82 Eagle Crest Street,United States,America/New_York
+952,St Marys Medical Park Pharmacy,60760-215,55-002,213 Swallow Court,Poland,Europe/Warsaw
+953,"Fenwal, Inc.",0942-6501,,72131 Crownhardt Road,China,Asia/Shanghai
+954,American Health Packaging,68084-510,,75775 Coleman Avenue,China,Asia/Chongqing
+955,"Medline Industries, Inc.",53329-641,,59297 Schmedeman Road,China,Asia/Shanghai
+956,SHISEIDO AMERICAS CORPORATION,58411-225,,4478 Transport Alley,China,Asia/Chongqing
+957,"Libertas Pharma, Inc.",51862-165,,22034 Stone Corner Street,China,Asia/Chongqing
+958,"Novel Laboratories, Inc.",40032-551,,8 Clove Parkway,China,Asia/Harbin
+959,Wakefern Food Corporation,41190-210,57-250,1163 Redwing Court,Poland,Europe/Warsaw
+960,GE Healthcare Inc.,0407-0690,,371 Bunting Hill,China,Asia/Shanghai
+961,"Paddock Laboratories, LLC",0574-1103,9555-145,12 Beilfuss Pass,Portugal,Africa/Accra
+962,WEGMANS FOOD MARKETS INC,47124-295,,7 Hintze Circle,China,Asia/Chongqing
+963,"Antigen Laboratories, Inc.",49288-0782,383 01,191 East Court,Czech Republic,Europe/Prague
+964,Cardinal Health,55154-3276,75971 CEDEX 20,45312 Roth Circle,France,Europe/Paris
+965,"APP Pharmaceuticals, LLC",63323-300,,1029 Monterey Pass,China,Asia/Chongqing
+966,Unit Dose Services,50436-3024,,8 8th Park,Ukraine,Europe/Zaporozhye
+967,CHANEL PARFUMS BEAUTE,68745-1153,783 53,44199 Mayer Lane,Czech Republic,Europe/Prague
+968,"Nelco Laboratories, Inc.",36987-2727,4085,43 Farragut Circle,Switzerland,Europe/Zurich
+969,EQUALINE (SuperValu),41163-691,,02005 Roth Pass,China,Asia/Harbin
+970,Rite Aid Corporation,11822-0637,03005,08 Carey Plaza,Spain,Europe/Madrid
+971,"Chain Drug Marketing Association, Inc.",63868-267,439 31,400 Arapahoe Pass,Czech Republic,Europe/Prague
+972,State of Florida DOH Central Pharmacy,53808-0162,,86 American Ash Point,China,Asia/Shanghai
+973,Jubilant HollisterStier LLC,65044-3510,69395 CEDEX 03,2140 Leroy Hill,France,Europe/Paris
+974,"Par Pharmaceutical Companies, Inc.",49884-403,34-330,957 Mariners Cove Circle,Poland,Europe/Warsaw
+975,STAT RX USA LLC,16590-635,OX7,5478 Reindahl Crossing,United Kingdom,Europe/London
+976,A-S Medication Solutions LLC,54569-1990,202-0022,58 Dunning Road,Japan,Asia/Tokyo
+977,"Antigen Laboratories, Inc.",49288-0234,,1 Sachs Road,China,Asia/Shanghai
+978,BluePoint Laboratories,68001-160,55928,33265 Service Park,Malaysia,Asia/Kuala_Lumpur
+979,"Watson Laboratories, Inc.",0591-3750,88847,5153 Armistice Circle,Malaysia,Asia/Kuching
+980,Bryant Ranch Prepack,63629-4094,33994,94353 Pine View Point,United States,America/New_York
+981,Universal holdings I LLC dba Smith Brothers Company,76461-024,,13786 Bowman Trail,China,Asia/Harbin
+982,Meijer Distribution Inc,41250-975,1410,04 Merry Point,Denmark,Europe/Copenhagen
+983,Laboratorios Columbia S.A. de C.V.,59567-001,,85 Bartelt Plaza,China,Asia/Shanghai
+984,Unit Dose Services,50436-7382,9259,6 Elka Center,Norway,Europe/Oslo
+985,"Alva-Amco Pharmacal Companies, Inc.",52389-154,30358,90509 Lotheville Street,United States,America/New_York
+986,"SKINFOOD CO., LTD.",76214-007,,635 Bartillon Way,China,Asia/Chongqing
+987,Dispensing Solutions Inc.,68258-3009,,30202 Donald Way,China,Asia/Chongqing
+988,Carilion Materials Management,68151-1521,,90727 Schurz Trail,China,Asia/Chongqing
+989,BluePoint Laboratories,68001-200,72-022,25655 Hooker Place,Poland,Europe/Warsaw
+990,REMEDYREPACK INC.,49349-835,,6 North Crossing,China,Asia/Chongqing
+991,Novo Nordisk,0169-7040,,0 Loftsgordon Crossing,China,Asia/Shanghai
+992,Rebel Distributors Corp.,21695-915,2420-055,5236 Ruskin Circle,Portugal,Europe/Lisbon
+993,SMART SENSE (Kmart),49738-244,59895 CEDEX 9,91 La Follette Pass,France,Europe/Paris
+994,King Bio Inc.,57955-5120,,248 Prentice Center,China,Asia/Chongqing
+995,Hyland's,54973-3103,73167,0076 Graedel Way,United States,America/Chicago
+996,Apotex Corp.,60505-3532,SVR,64 Chinook Terrace,Malta,Europe/Malta
+997,Mylan Institutional Inc.,51079-513,,70 Merchant Point,China,Asia/Shanghai
+998,Cardinal Health,55154-0842,,21834 Vermont Hill,China,Asia/Shanghai
+999,Nash-Finch Company (Our Family),70253-250,9630-224,2261 Mesta Pass,Portugal,Africa/Accra
+1000,Sanum Kehlbeck GmbH & Co. KG,60681-3101,21037,1 Ridgeway Crossing,Germany,Europe/Berlin
