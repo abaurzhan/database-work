@@ -17,8 +17,8 @@ func main() {
 	// Don't Open() database every time you want to send the query, use
 	// *sql.DB object instead.
 	db, err = sql.Open("sqlite3", "newdb.sqlite")
-	defer db.Close()
 	printIfErr(err)
+	defer db.Close()
 
 	// Check if the database actually available.
 	err = db.Ping()
